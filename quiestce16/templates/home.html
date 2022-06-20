@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="utf-8"/>
+
+<style>
+
+body{
+	
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+	
+h1{
+	text-align:center;
+	
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr 1fr;
+  grid-template-rows: auto auto auto;
+  justify-content: space-evenly;
+  background-color:  #E8EDEB;
+  padding: 10px;
+}
+
+.photo {
+  grid-column: 2;
+  grid-row: 1;
+  
+  }
+
+.rep{
+	grid-column: 2;
+	grid-row: 2;
+	
+	}
+	
+.indices{
+	grid-column: 3;
+	grid-row: 1;
+	
+	}
+
+.message {
+  grid-column: 3;
+  grid-row: 2;
+  }
+    
+  
+.button {
+  display: inline-block;
+  background-color: #58895B;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  border-radius: none;
+  box-shadow: 0 3px #999;
+  margin-bottom: 1%;
+  
+  }
+
+.button:hover {background-color: #83AF86}
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #D2DBD8;
+  color: #666666;
+}
+
+</style>	
+</head>
+
+<body>
+
+
+<h1>Qui est-ce ? (Un jeu parlementaire) </h1>
+
+<p>
+Règles : vous avez droit à cinq tentatives.  Les majuscules comptent, les 
+accents aussi. Vous pouvez 
+demander des indices (jusqu'à quatre), mais vous perdez un essai. Vous pouvez aussi
+abandonner.
+</p>
+
+<P>
+Pour le moment, seuls les sortants réélus sont présents. Ça se compliquera 
+la semaine prochaine.
+</P>
+
+<div class="grid-container">
+
+<div class="photo">
+<img src="{{question}}">
+</div>
+
+<div class="rep">
+
+<form action= {% url 'index' %} method="POST">
+{% csrf_token %}  {{ rep }} <input class="button" type="submit"
+name="reponse" value="Hop !">
+</form>
+
+<form action={% url 'index' %} method="POST">
+{% csrf_token %} 
+<button class="button" type="submit" name="abandon">Abandonner</button>
+</form>
+
+<form action={% url 'index' %} method="POST">
+{% csrf_token %} 
+<button class="button" type="submit" id="boutonIndices" name="indice">
+Donnez-moi un indice
+</button>
+
+
+
+</div>
+
+
+<div class="indices">
+
+
+<p id="indices">
+	
+	{% if nb_indices_demandés != 0 %}    
+       
+       <ul>
+       {% for x in h %}
+       
+       <li>{{ x }}</li>
+       
+       {% endfor %}
+       </ul>
+	   
+   {% endif %}
+	
+	
+</p>
+
+
+</div>
+
+<div class="message">
+
+<P>
+{{ message }}
+</P>
+
+</div>
+
+</div> <!--attention celui-ci c'est la fin du container -->
+
+
+
+<!-- 
+ | PARTIE JAVASCRIPT
+-->
+
+<script>
+
+if ({{ nb_indices_demandés }} > 3 || {{ essais }} > 3){
+           document.getElementById("boutonIndices").disabled = true;
+           }
+       else {
+           document.getElementById("boutonIndices").disabled = false;
+           }
+
+</script>
+
+
+
+
+
+</body>
+
+</html>
