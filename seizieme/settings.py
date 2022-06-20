@@ -10,10 +10,19 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-from pathlib import Path
 
+from pathlib import Path
 import os
-SECRET_KEY = os.getenv('SECRET_KEY')
+
+# Configuration locale :
+# import environ
+# 
+# env = environ.Env()
+# 
+# environ.Env.read_env()
+
+# import os
+# SECRET_KEY = os.getenv('SECRET_KEY')
 #django on heroku imports environnement secret key
 #which is in heroku config
 
@@ -25,7 +34,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = grab something on djecrecy
+
+# SECRET_KEY= grad something on djecrety
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
@@ -60,7 +71,7 @@ CSRF_TRUSTED_ORIGINS = ["http://0.0.0.0",
 SESSION_COOKIE_SECURE=True 
 CSRF_COOKIE_SECURE=True
 
-ROOT_URLCONF = 'seize.urls'
+ROOT_URLCONF = 'seizieme.urls'
 
 TEMPLATES = [
     {
@@ -78,7 +89,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'seize.wsgi.application'
+WSGI_APPLICATION = 'seizieme.wsgi.application'
 
 
 # Database
