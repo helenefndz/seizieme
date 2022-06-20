@@ -17,6 +17,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 331835,Monique,Iborra,Occitanie,Haute-Garonne,6,Retraitée de la Fonction publique,La République en Marche,LaREM,Oui
 719286,Paul-André,Colombani,Corse,Corse-du-Sud,2,Médecin,Libertés et Territoires,LT,Oui
 721678,Robin,Reda,Ile-de-France,Essonne,7,Autres,Les Républicains,LR,Oui
+605963,Éric,Alauzet,Bourgogne-Franche-Comté,Doubs,2,Médecin,La République en Marche,LaREM,Oui
 720362,Belkhir,Belhaddad,Grand Est,Moselle,1,Industriel-Chef d'entreprise,La République en Marche,LaREM,Oui
 607395,Stéphane,Travert,Normandie,Manche,3,Cadre commercial,La République en Marche,LaREM,Oui
 720014,Huguette,Tiegna,Occitanie,Lot,2,"Docteur, Ingénieur Recherche et Dévelopement",La République en Marche,LaREM,Oui
@@ -61,6 +62,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 267318,Jean-Carles,Grelier,Pays de la Loire,Sarthe,5,Avocat,Les Républicains,LR,Oui
 718884,Valérie,Bazin-Malgras,Grand Est,Aube,2,Commerçante,Les Républicains,LR,Oui
 607193,Sophie,Errante,Pays de la Loire,Loire-Atlantique,10,Industriel-Chef d'entreprise,La République en Marche,LaREM,Oui
+330240,Éric,Ciotti,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,1,Autre profession,Les Républicains,LR,Oui
 720074,Caroline,Janvier,Centre-Val de Loire,Loiret,2,Autre cadre (secteur privé),La République en Marche,LaREM,Oui
 330008,Xavier,Breton,Auvergne-Rhône-Alpes,Ain,1,Cadre territorial,Les Républicains,LR,Oui
 774958,Gérard,Leseul,Normandie,Seine-Maritime,5,Cadre d'entreprise / enseignant universitaire,Socialistes et apparentés,SOC,Oui
@@ -91,6 +93,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 721880,Marie,Guévenoux,Ile-de-France,Essonne,9,Collaborateur politique,La République en Marche,LaREM,Oui
 606098,Olivier,Marleix,Centre-Val de Loire,Eure-et-Loir,2,Fonctionnaire de catégorie A,Les Républicains,LR,Oui
 721530,Aude,Luquet,Ile-de-France,Seine-et-Marne,1,Autre profession,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
+721410,Émilie,Bonnivard,Auvergne-Rhône-Alpes,Savoie,3,Cadre à la Caisse des Dépôts et Consignations,Les Républicains,LR,Oui
 721426,Véronique,Riotton,Auvergne-Rhône-Alpes,Haute-Savoie,1,Consultante-Coach en Ressources Humaines,La République en Marche,LaREM,Oui
 718910,Claire,Pitollat,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,2,Ingénieur,La République en Marche,LaREM,Oui
 774962,Karine,Lebon,Réunion,Réunion,2,Professeure des écoles,Gauche démocrate et républicaine,GDR,Oui
@@ -116,6 +119,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 720468,Sébastien,Chenu,Hauts-de-France,Nord,19,Conseiller en communication,Non inscrit,NI,Oui
 719032,Bertrand,Bouyx,Normandie,Calvados,5,Pharmacien,La République en Marche,LaREM,Oui
 942,Charles,de Courson,Grand Est,Marne,5,Ancien magistrat à la Cour des comptes,Libertés et Territoires,LT,Oui
+721202,Éric,Coquerel,Ile-de-France,Seine-Saint-Denis,1,Industriel-Chef d'entreprise,La France insoumise,FI,Oui
 267901,Mansour,Kamardine,Mayotte,Mayotte,2,Avocat,Les Républicains,LR,Oui
 719778,François,Jolivet,Centre-Val de Loire,Indre,1,Cadre supérieur (secteur privé),La République en Marche,LaREM,Oui
 720728,Jean-Paul,Mattei,Nouvelle-Aquitaine,Pyrénées-Atlantiques,2,Notaire,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
@@ -196,19 +200,23 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 720668,Emmanuel,Blairy,Hauts-de-France,Pas-de-Calais,3,Fonctionnaire territorial,Non inscrit,NI,Oui
 721442,Christelle,Petex-Levet,Auvergne-Rhône-Alpes,Haute-Savoie,3,,Les Républicains,LR,Oui
 721984,Philippe,Latombe,Pays de la Loire,Vendée,1,Cadre supérieur (secteur privé),Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
+2960,Éric,Woerth,Hauts-de-France,Oise,4,Associé dans un cabinet d'audit international,La République en Marche,LaREM,Oui
 719472,Jean-René,Cazeneuve,Occitanie,Gers,1,Ingénieur,La République en Marche,LaREM,Oui
 721608,Jean-Louis,Bourlanges,Ile-de-France,Hauts-de-Seine,12,Retraité de la fonction publique,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
 720286,Caroline,Fiat,Grand Est,Meurthe-et-Moselle,6,Salariée du secteur médical,La France insoumise,FI,Oui
 720190,Bertrand,Sorre,Normandie,Manche,2,Enseignant 1er degré-directeur d'école (en disponibilité),La République en Marche,LaREM,Oui
 721150,Alexandre,Holroyd,Français établis hors de France,Français établis hors de France,3,Sans profession déclarée,La République en Marche,LaREM,Oui
+718784,Éric,Pauget,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,7,Autre cadre (secteur privé),Les Républicains,LR,Oui
 720932,Dominique,Da Silva,Ile-de-France,Val-d'Oise,7,Industriel-Chef d'entreprise,La République en Marche,LaREM,Oui
 721976,Bruno,Millienne,Ile-de-France,Yvelines,9,Cadre supérieur (secteur privé),Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
 719608,Emmanuelle,Ménard,Occitanie,Hérault,6,Journaliste et autre média,Non inscrit,NI,Oui
 720586,Pierre,Vatin,Hauts-de-France,Oise,5,Permanent politique,Les Républicains,LR,Oui
+642695,Éric,Bothorel,Bretagne,Côtes-d'Armor,5,Cadre supérieur (secteur privé),La République en Marche,LaREM,Oui
 588884,Clémentine,Autain,Ile-de-France,Seine-Saint-Denis,11,Journaliste et autre média,La France insoumise,FI,Oui
 722358,Thomas,Gassilloud,Auvergne-Rhône-Alpes,Rhône,10,Industriel-Chef d'entreprise,Agir ensemble,Agir ens,Oui
 720952,Aurélien,Taché,Ile-de-France,Val-d'Oise,10,Fonctionnaire de catégorie A,Non inscrit,NI,Oui
 719866,Caroline,Abadie,Auvergne-Rhône-Alpes,Isère,8,Industriel-Chef entreprise,La République en Marche,LaREM,Oui
+719600,Éric,Poulliat,Nouvelle-Aquitaine,Gironde,6,Fonctionnaire de catégorie B,La République en Marche,LaREM,Oui
 720822,Bruno,Bilde,Hauts-de-France,Pas-de-Calais,12,Juriste,Non inscrit,NI,Oui
 722000,Stéphane,Buchou,Pays de la Loire,Vendée,3,Cadre supérieur (secteur privé),La République en Marche,LaREM,Oui
 719488,Philippe,Berta,Occitanie,Gard,6,Professeur de faculté,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
@@ -219,6 +227,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 721182,Frédéric,Petit,Français établis hors de France,Français établis hors de France,7,Ingénieur,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
 722366,Jean-Luc,Fugit,Auvergne-Rhône-Alpes,Rhône,11,Professeur de faculté,La République en Marche,LaREM,Oui
 720960,Olivier,Serva,Guadeloupe,Guadeloupe,1,Expert comptable,La République en Marche,LaREM,Oui
+719874,Élodie,Jacquier-Laforge,Auvergne-Rhône-Alpes,Isère,9,Cadre supérieur (secteur privé),Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
 719890,Danielle,Brulebois,Bourgogne-Franche-Comté,Jura,1,Retraitée de l'enseignement,La République en Marche,LaREM,Oui
 719624,Bérangère,Couillard,Nouvelle-Aquitaine,Gironde,7,Autre cadre (secteur privé),La République en Marche,LaREM,Oui
 720614,Marine,Le Pen,Hauts-de-France,Pas-de-Calais,11,Avocate,Non inscrit,NI,Oui
@@ -228,6 +237,7 @@ identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Professi
 719138,Michel,Castellani,Corse,Haute-Corse,1,Professeur des Universités,Libertés et Territoires,LT,Oui
 720334,Jimmy,Pahun,Bretagne,Morbihan,2,Navigateur,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
 718926,Pierre,Dharréville,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,Employé (secteur privé),Gauche démocrate et républicaine,GDR,Oui
+720222,Éric,Girardin,Grand Est,Marne,3,Industriel-Chef d'entreprise,La République en Marche,LaREM,Oui
 695100,Meyer,Habib,Français établis hors de France,Français établis hors de France,8,Ingénieur,UDI et Indépendants,UDI-I,Oui
 677483,Stéphane,Mazars,Occitanie,Aveyron,1,Avocat,La République en Marche,LaREM,Oui
 722374,Cyrille,Isaac-Sibille,Auvergne-Rhône-Alpes,Rhône,12,Médecin,Mouvement Démocrate (MoDem) et Démocrates apparentés,Dem,Oui
