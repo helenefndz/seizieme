@@ -16,9 +16,9 @@ import os
 
 # Configuration locale :
 # import environ
-# 
+#   
 # env = environ.Env()
-# 
+#   
 # environ.Env.read_env()
 
 # import os
@@ -35,10 +35,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-# SECRET_KEY= grad something on djecrety
+# SECRET_KEY= voir sur Djecrety
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['herokuapp.com', 'localhost']
 
@@ -67,9 +67,16 @@ MIDDLEWARE = [
 
 CSRF_TRUSTED_ORIGINS = ["http://0.0.0.0",
     "http://localhost",'https://*.herokuapp.com]']
-
-SESSION_COOKIE_SECURE=True 
+# 
+SESSION_COOKIE_SECURE=True
 CSRF_COOKIE_SECURE=True
+SECURE_SSL_REDIRECT=True
+
+# SESSION_COOKIE_SECURE=False
+# CSRF_COOKIE_SECURE=False
+# SECURE_SSL_REDIRECT=False
+
+
 
 ROOT_URLCONF = 'seizieme.urls'
 

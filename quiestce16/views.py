@@ -5,6 +5,8 @@ from .forms import Prop
 
 import random
 
+from fuzzywuzzy import fuzz
+
 # from scripts import choisir a été réintégré ici
 
 def index(request):
@@ -46,7 +48,8 @@ def index(request):
             h = h[0:nb_indices_demandés]
             
             # message = "Il ne vous reste qu'une seule chance, plus possible de demander des indices."
-            message = ecrire_message(essais, nb_indices_demandés)
+            proximite = ""
+            message = ecrire_message(essais, nb_indices_demandés, proximite)
             
             context = {'question': i,
                         'rep': Prop(),
@@ -61,8 +64,8 @@ def index(request):
         
         
         else:
-            
-            message = ecrire_message(essais, nb_indices_demandés)
+            proximite = ""
+            message = ecrire_message(essais, nb_indices_demandés, proximite)
             
             # message = "Encore {} essais, {} indices.".format(5-essais, 4-nb_indices_demandés)
             
@@ -109,10 +112,12 @@ def index(request):
                         request.session['essais'] = essais
                         h = h[0:nb_indices_demandés]
                         
-                        # message = "Il ne vous reste qu'une seule chance, plus possible de demander des indices."
+                        proximite = proche_loin(rep, p)
+						
+						# message = "Il ne vous reste qu'une seule chance, plus possible de demander des indices."
                         # message = "Dernière chance ! essais = {}, nb_indices_demandés = {}, chemin post, réponse, 4 essais".format(essais, nb_indices_demandés)
                         
-                        message = ecrire_message(essais, nb_indices_demandés)
+                        message = ecrire_message(essais, nb_indices_demandés, proximite)
                         
                         context = {'question': i,
                                     'rep': Prop(),
@@ -140,7 +145,10 @@ def index(request):
                     
                     h = h[0:nb_indices_demandés]
                     
-                    message = "Non. " + ecrire_message(essais, nb_indices_demandés)
+                    proximite = proche_loin(rep, p)
+                    
+                    message = "Non. " + ecrire_message(essais, nb_indices_demandés, proximite)
+                   
                     
                     context = {'question': i,
                                 'rep': Prop(),
@@ -156,22 +164,7 @@ def index(request):
                     # return HttpResponse(message)
 
     elif essais == 0:
-        # choisir.run()
         
-        # Mystere.objects.create(id=0)
-    
-        # i = Image.objects.all().first()
-        # i = i.image
-    
-        # p = Mystere.objects.all().last()
-        # p = p.individu
-    
-        # h = list(Indice.objects.values_list('indice_txt', flat=True))
-        # random.shuffle(h)
-    
-        # p = request.session.get('p', p)
-        # i = request.session.get('i', i)
-        # h = request.session.get('h', h)
         
         request.session['essais'] = 0
         request.session['nb_indices_demandés'] = 0 #on sait jamais
@@ -184,7 +177,7 @@ def index(request):
         i = i.image
         
         h = a_deviner.indice_set.get()
-        h = [h.ind_p, h.ind_gpe, h.ind_dpt, h.ind_initiale]
+        h = [h.ind_p, h.ind_sortant, h.ind_dpt, h.ind_initiale]
         random.shuffle(h)
 
         request.session['p'] = p
@@ -194,7 +187,8 @@ def index(request):
         
         # message = "C'est le début : encore {} essais et {} indices à demander.".format(5-essais, 4-nb_indices_demandés)
         # message = "p : {}, i : {}, h : {}.".format(p, i, h)
-        message = ecrire_message(essais, nb_indices_demandés)
+        proximite = ""
+        message = ecrire_message(essais, nb_indices_demandés, proximite)
         
         context = {'question': i,
                    'rep': Prop(),
@@ -222,11 +216,26 @@ def index(request):
           
         
 def verdict(request, p, res):
-    '''fin : bravo ou raté. Deux arguments, request et res pour résolution'''
-    
+    '''fin : bravo ou raté. Deux arguments, request et res pour résolution
+        On alimente aussi la session : nombre de parties jouées, nombre de réussites
+    '''
+     
+    nb_jeu = request.session.get('nb_jeu', 0)
+    yes = request.session.get('yes', 0)
+     
+    nb_jeu += 1
+     
+    if res == True:
+         yes += 1
+     
+    request.session['nb_jeu'] = nb_jeu
+    request.session['yes'] = yes
+
     # # if request.method == 'POST' and 'abandon' in request.POST:
     # #     return HttpResponse("Perdu ! C'était %s." % p)
+    recap = "Vous avez joué {} fois, avec {:.2f} % de réussite.".format(nb_jeu, yes/nb_jeu*100)
     
+	
     template = loader.get_template('verdict.html')
     
     # p = Mystere.objects.all().last()
@@ -235,29 +244,47 @@ def verdict(request, p, res):
     # p = request.session.get('p', p)
     
     context = {'p':p,
-               'res': res
+               'res': res,
+			   'recap': recap
                }
     
     return HttpResponse(template.render(context, request))
     # return HttpResponse("Perdu")
     
-def ecrire_message(x, y): #essais, nb_indices_demandés
-    '''Écriture du message affiché. Essais, nb d'indices demandés'''
+def ecrire_message(x, y, z): #essais, nb_indices_demandés
+    '''Écriture du message affiché. Essais, indices demandés
+	Proximité : Levenshtein calculé par fuzzywuzzy (df proche_loin)
+    '''
     
     if x == 0:
-        return "Début ! Il vous reste cinq essais et vous pouvez demander quatre indices."
+        m_fin = "Début ! Il vous reste cinq essais et vous pouvez demander quatre indices."
     
     elif x == 4:
-        return "Dernière chance ! Vous ne pouvez plus demander d'indices."
+        m_fin =  "Dernière chance ! Vous ne pouvez plus demander d'indices."
     
     else:
         
-        msg1 = "Il vous reste {} essais ".format(5-x)
+        m_fin1 = "Il vous reste {} essais ".format(5-x)
         
         if y == 3:
-            msg2 = "et vous pouvez encore demander un indice."
+            m_fin2 =  "et vous pouvez encore demander un indice."
         else:
-            msg2 = "et vous pouvez encore demander {} indices.".format(4-y)
+            m_fin2 =  "et vous pouvez encore demander {} indices.".format(4-y)
+            
+        m_fin = m_fin1 + m_fin2
         
-        return msg1 + msg2
+    message = z + "<br>" + m_fin
+    
+    return message
+
+def proche_loin(rep, p):
+    ratio = fuzz.partial_ratio(rep, p)
+    if ratio >= 85:
+        proximite = "Mais vous êtes vraiment très proche ! (Juste une erreur d'orthographe peut-être ?)"
+    elif ratio >= 70:
+        proximite = "Vous êtes proche."
+    else:
+        proximite = ""
+    return proximite
+
     

@@ -48,7 +48,12 @@ body{
 <P id="resolution">
 </P>
 
+<P id="bilan"></P>
+
 <a href="{% url 'index' %}">Retour</A>
+
+</button> 
+
 </div>
 
 </div>
@@ -56,12 +61,17 @@ body{
 
 
 <script>
+const recap = "{{ recap }}";
+
 const res = "{{ res|yesno:"true, false" }}";
 
 const p = "{{ p }}";
 
-console.log(res, p);
 
+
+console.log(recap, res, p);
+
+document.getElementById("bilan").innerHTML = recap
 
 if (res == "true"){
 	let message = "Bravo ! C'était bien " + p + ".";
@@ -73,8 +83,6 @@ else{
 	document.getElementById("resolution").innerHTML = message
 	};
 	
-	
-
 
 </script>
 
