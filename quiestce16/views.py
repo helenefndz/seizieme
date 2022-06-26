@@ -21,6 +21,7 @@ def index(request):
     p = request.session.get('p', "")  #get(key, default=None)¶
     i = request.session.get('i', "")
     h = request.session.get('h', [])
+    n = request.session.get('n', "")
     
 
     if request.method == 'POST' and 'abandon' in request.POST:
@@ -176,19 +177,27 @@ def index(request):
         i = a_deviner.image_set.get()
         i = i.image
         
+        n = a_deviner.nuance_set.get()
+        n = n.nuance
+        
         h = a_deviner.indice_set.get()
         h = [h.ind_p, h.ind_sortant, h.ind_dpt, h.ind_initiale]
         random.shuffle(h)
 
-        request.session['p'] = p
+        request.session['p'] = p 
         request.session['question'] = i
         request.session['h'] = h
         request.session['i'] = i
+        
+        request.session['n'] = n
+        
         
         # message = "C'est le début : encore {} essais et {} indices à demander.".format(5-essais, 4-nb_indices_demandés)
         # message = "p : {}, i : {}, h : {}.".format(p, i, h)
         proximite = ""
         message = ecrire_message(essais, nb_indices_demandés, proximite)
+        
+        
         
         context = {'question': i,
                    'rep': Prop(),
@@ -235,6 +244,9 @@ def verdict(request, p, res):
     # #     return HttpResponse("Perdu ! C'était %s." % p)
     recap = "Vous avez joué {} fois, avec {:.2f} % de réussite.".format(nb_jeu, yes/nb_jeu*100)
     
+    i = request.session.get('i', "")
+    n = request.session.get('n', "")
+    
 	
     template = loader.get_template('verdict.html')
     
@@ -245,7 +257,9 @@ def verdict(request, p, res):
     
     context = {'p':p,
                'res': res,
-			   'recap': recap
+               'recap': recap,
+               'question': i,
+               'n': n
                }
     
     return HttpResponse(template.render(context, request))

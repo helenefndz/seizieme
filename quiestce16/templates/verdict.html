@@ -50,6 +50,11 @@ body{
 
 <P id="bilan"></P>
 
+<div>
+<img src="{{ question }}">
+</div>
+
+
 <a href="{% url 'index' %}">Retour</A>
 
 </button> 
@@ -67,18 +72,17 @@ const res = "{{ res|yesno:"true, false" }}";
 
 const p = "{{ p }}";
 
+const n = "{{ n }}";
 
-
-console.log(recap, res, p);
 
 document.getElementById("bilan").innerHTML = recap
 
 if (res == "true"){
-	let message = "Bravo ! C'était bien " + p + ".";
+	let message = "Bravo ! C'était bien " + p + " (" + n + ").";
 	document.getElementById("resolution").innerHTML = message
 }
 else{
-	let message = "Perdu ! C'était "+ p + ".";
+	let message = "Perdu ! C'était "+ p + " (" + n + ").";
 	
 	document.getElementById("resolution").innerHTML = message
 	};

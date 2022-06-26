@@ -18,6 +18,8 @@ def run():
 
     for line in deputes.index:
         solution = "{} {}".format(deputes.at[line,'Prénom'], deputes.at[line,'Nom'])
+        
+        etiquette = deputes.at[line, "Nuance d'élection"]
       
         prénom = "Son prénom est " + deputes.at[line, 'Prénom'] + "."
         # groupe = "Groupe : " + deputes.at[line, 'Groupe politique (complet)'] + "."
@@ -45,9 +47,11 @@ def run():
         imgURL = "https://www2.assemblee-nationale.fr/static/tribun/16/photos/" + str(line) + ".jpg"
         
         w = Mystere(individu=solution)
-
         w.save()
+        
         w.image_set.create(image=imgURL)
+        
+        w.nuance_set.create(nuance=etiquette)
         
         # w.indice_set.create(ind_p=prénom, ind_gpe=groupe, ind_dpt=département, ind_initiale=initiale)
         w.indice_set.create(ind_p=prénom, ind_sortant=is_sortant, ind_dpt=département, ind_initiale=initiale)

@@ -8,6 +8,11 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
+
+pour changer entre local et heroku, 
+- s'occuper de la secret key
+- passer en True les secure_machins
+- passer Debug en False
 """
 
 
@@ -36,9 +41,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 
 # SECRET_KEY= voir sur Djecrety
+SECRET_KEY='(x1m+(%7kl*dbo5-fckr^(q4meyw#x6c)fvy&&k2*vybb9(p*4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['herokuapp.com', 'localhost']
 
@@ -68,13 +74,13 @@ MIDDLEWARE = [
 CSRF_TRUSTED_ORIGINS = ["http://0.0.0.0",
     "http://localhost",'https://*.herokuapp.com]']
 # 
-SESSION_COOKIE_SECURE=True
-CSRF_COOKIE_SECURE=True
-SECURE_SSL_REDIRECT=True
+# SESSION_COOKIE_SECURE=True
+# CSRF_COOKIE_SECURE=True
+# SECURE_SSL_REDIRECT=True
 
-# SESSION_COOKIE_SECURE=False
-# CSRF_COOKIE_SECURE=False
-# SECURE_SSL_REDIRECT=False
+SESSION_COOKIE_SECURE=False
+CSRF_COOKIE_SECURE=False
+SECURE_SSL_REDIRECT=False
 
 
 
