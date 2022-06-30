@@ -45,10 +45,14 @@ class Indice(models.Model):
     ind_dpt = models.CharField(max_length=255, default="")
     ind_initiale = models.CharField(max_length=255, default="")
     ind_sortant = models.CharField(max_length=255, default="")
+    ind_groupe = models.CharField(max_length=255, default="")
+    ind_commission = models.CharField(max_length=255, default="")
     
     def __str__(self):
-            return "[%s, %s, %s, %s]" % (self.ind_p,
+            return "[%s, %s, %s, %s, %s, %s]" % (self.ind_p,
                                              self.ind_sortant,
                                              self.ind_dpt,
-                                             self.ind_initiale
+                                             self.ind_initiale,
+                                             self.ind_groupe,
+                                             self.ind_commission
                                              )

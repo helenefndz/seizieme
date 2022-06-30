@@ -62,7 +62,7 @@ CSRF_TRUSTED_ORIGINS = ["http://0.0.0.0",
 SESSION_COOKIE_SECURE=True 
 CSRF_COOKIE_SECURE=True
 
-ROOT_URLCONF = 'seize.urls'
+ROOT_URLCONF = 'seizieme.urls'
 
 TEMPLATES = [
     {
@@ -80,7 +80,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'seize.wsgi.application'
+WSGI_APPLICATION = 'seizieme.wsgi.application'
 
 
 # Database

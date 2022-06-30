@@ -12,7 +12,7 @@ import pandas as pd
 from quiestce16.models import Mystere, Image, Indice
 
 def run():
-    deputes = pd.read_csv('docs/élus2022_début.csv', index_col=[0])
+    deputes = pd.read_csv('docs/élus_29062022_colonnes_suppl.csv', index_col=[0])
 
     Mystere.objects.all().delete()
 
@@ -43,6 +43,25 @@ def run():
                 is_sortant = "C'est une nouvelle élue"
             else:
                 is_sortant = "C'est un nouvel élu"
+                
+        groupe = deputes.at[line, 'Groupe sur la fiche indiv']
+        if groupe == "Non inscrit":
+            if deputes.at[line, 'Genre'] == 'F':
+                groupe = "C'est une non inscrite"
+            else:
+                groupe = "C'est un non inscrit"
+        else:
+            if deputes.at[line, 'Genre'] == 'F':
+                groupe = "Elle appartient au groupe " + groupe
+            else:
+                groupe = "Il appartient au groupe " + groupe
+                
+        com = deputes.at[line, 'Commission sur les fiches indiv']
+        if deputes.at[line, 'Genre'] == 'F':
+            com = "Elle appartient à la " + com
+        else:
+            com = "Il appartient à la " + com
+        
         
         imgURL = "https://www2.assemblee-nationale.fr/static/tribun/16/photos/" + str(line) + ".jpg"
         
@@ -54,6 +73,8 @@ def run():
         w.nuance_set.create(nuance=etiquette)
         
         # w.indice_set.create(ind_p=prénom, ind_gpe=groupe, ind_dpt=département, ind_initiale=initiale)
-        w.indice_set.create(ind_p=prénom, ind_sortant=is_sortant, ind_dpt=département, ind_initiale=initiale)
+        w.indice_set.create(ind_p=prénom, ind_sortant=is_sortant,
+                            ind_dpt=département, ind_initiale=initiale,
+                            ind_groupe=groupe, ind_commission=com)
  
             
