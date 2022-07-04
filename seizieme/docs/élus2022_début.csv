@@ -1,0 +1,578 @@
+identifiant,Prénom,Nom,Région,Département,Numéro de circonscription,Profession,Groupe politique (complet),Groupe politique (abrégé),sortant.e,Genre,Nuance d'élection
+642868,Paul,Christophe,Hauts-de-France,Nord,14,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,ENS
+719146,Jean-Félix,Acquaviva,Corse,Haute-Corse,2,Cadre,Non inscrit,NI,True,M,REG
+795692,William,Martinet,Ile-de-France,Yvelines,11,Cadre administratif,Non inscrit,NI,False,M,NUP
+795050,Astrid,Panosyan-Bouvet,Ile-de-France,Paris,4,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
+719412,Sandrine,Le Feur,Bretagne,Finistère,4,Agriculteur-propriétaire exploitant,Non inscrit,NI,True,F,ENS
+720414,Patrice,Perrot,Bourgogne-Franche-Comté,Nièvre,2,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+721960,Danièle,Obono,Ile-de-France,Paris,17,Bibliothécaire,Non inscrit,NI,True,F,NUP
+794938,Idir,Boumertit,Auvergne-Rhône-Alpes,Rhône,14,Employé administratif d'entreprise,Non inscrit,NI,False,M,NUP
+795950,David,Amiel,Ile-de-France,Paris,13,Sans profession déclarée,Non inscrit,NI,False,M,ENS
+720764,Florence,Lasserre,Nouvelle-Aquitaine,Pyrénées-Atlantiques,5,Employée du secteur privé,Non inscrit,NI,True,F,ENS
+793608,Katiana,Levavasseur,Normandie,Eure,2,Ouvrier non qualifié de type industriel,Non inscrit,NI,False,F,RN
+795828,Johnny,Hajjar,Martinique,Martinique,3,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,M,DVG
+793548,Caroline,Colombier,Nouvelle-Aquitaine,Charente,3,Avocate / Ancien cadre ,Non inscrit,NI,False,F,RN
+720976,Max,Mathiasin,Guadeloupe,Guadeloupe,3,Fonction publique territoriale,Non inscrit,NI,True,M,DVG
+720170,Carole,Grandjean,Grand Est,Meurthe-et-Moselle,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,F,ENS
+793872,Nathalie,Oziol,Occitanie,Hérault,2,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+720822,Bruno,Bilde,Hauts-de-France,Pas-de-Calais,12,Juriste,Non inscrit,NI,True,M,RN
+718926,Pierre,Dharréville,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,13,Employé (secteur privé),Non inscrit,NI,True,M,NUP
+722102,Annie,Vidal,Normandie,Seine-Maritime,2,Retraitée de la fonction publique hospitalière,Non inscrit,NI,True,F,ENS
+722292,Thomas,Rudigoz,Auvergne-Rhône-Alpes,Rhône,1,Sans profession déclarée,Non inscrit,NI,True,M,ENS
+720362,Belkhir,Belhaddad,Grand Est,Moselle,1,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+721836,Jean-Noël,Barrot,Ile-de-France,Yvelines,2,Professeur de faculté,Non inscrit,NI,True,M,ENS
+794286,Anne-Sophie,Frigout,Grand Est,Marne,2,"Professeur, profession scientifique",Non inscrit,NI,False,F,RN
+793672,Christine,Loir,Normandie,Eure,1,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,F,RN
+718884,Valérie,Bazin-Malgras,Grand Est,Aube,2,Commerçante,Non inscrit,NI,True,F,LR
+609590,Valérie,Rabault,Occitanie,Tarn-et-Garonne,1,Ingénieure,Non inscrit,NI,True,F,NUP
+608416,Patrick,Hetzel,Grand Est,Bas-Rhin,7,Professeur des Universités,Non inscrit,NI,True,M,LR
+605694,Olivier,Falorni,Nouvelle-Aquitaine,Charente-Maritime,1,Professeur du secondaire,Non inscrit,NI,True,M,DVG
+794530,Matthieu,Marchio,Hauts-de-France,Nord,16,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+794114,Emmanuel,Mandon,Auvergne-Rhône-Alpes,Loire,3,Profession intermédiaire administrative et commerciale des entreprises,Non inscrit,NI,False,M,ENS
+643192,Chantal,Jourdan,Normandie,Orne,1,Psychologue,Non inscrit,NI,True,F,NUP
+793500,Benoît,Bordat,Bourgogne-Franche-Comté,Côte-d'Or,2,Conseiller foncier agricole,Non inscrit,NI,False,M,ENS
+721678,Robin,Reda,Ile-de-France,Essonne,7,Autres,Non inscrit,NI,True,M,ENS
+720370,Ludovic,Mendes,Grand Est,Moselle,2,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+791812,Sophia,Chikirou,Ile-de-France,Paris,6,Chef d'entreprise de 10 salariés ou plus,Non inscrit,NI,False,F,NUP
+720430,Ugo,Bernalicis,Hauts-de-France,Nord,2,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,NUP
+722054,Nadia,Hai,Ile-de-France,Yvelines,7,Conseil en gestion de patrimoine,Non inscrit,NI,False,F,ENS
+720022,Michel,Lauzzana,Nouvelle-Aquitaine,Lot-et-Garonne,1,Médecin,Non inscrit,NI,True,M,ENS
+793314,Alexandra,Masson,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,4,Profession libérale,Non inscrit,NI,False,F,RN
+795966,Stéphane,Rambaud,Provence-Alpes-Côte d'Azur,Var,3,Retraité de la police nationale,Non inscrit,NI,False,M,RN
+795508,Émilie,Chandler,Ile-de-France,Val-d'Oise,1,Profession libérale,Non inscrit,NI,False,F,ENS
+794870,Sylvie,Ferrer,Occitanie,Hautes-Pyrénées,1,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,F,NUP
+793624,Philippe,Brun,Normandie,Eure,4,Magistrat administratif,Non inscrit,NI,False,M,NUP
+608016,Véronique,Louwagie,Normandie,Orne,2,Expert-comptable,Non inscrit,NI,True,F,LR
+643134,Isabelle,Valentin,Auvergne-Rhône-Alpes,Haute-Loire,1,Salariée agricole,Non inscrit,NI,True,F,LR
+718710,Pascale,Boyer,Provence-Alpes-Côte d'Azur,Hautes-Alpes,1,"Contremaître, agent de maîtrise",Non inscrit,NI,True,F,ENS
+722142,François,Ruffin,Hauts-de-France,Somme,1,Reporter,Non inscrit,NI,True,M,NUP
+794458,Martine,Etienne,Grand Est,Meurthe-et-Moselle,3,Ancien employé,Non inscrit,NI,False,F,NUP
+795318,Louis,Boyard,Ile-de-France,Val-de-Marne,3,"Elève, étudiant",Non inscrit,NI,False,M,NUP
+608172,Christine,Pires Beaune,Auvergne-Rhône-Alpes,Puy-de-Dôme,2,Fonctionnaire de catégorie A,Non inscrit,NI,True,F,NUP
+793452,Hendrik,Davi,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,5,"Professeur, profession scientifique",Non inscrit,NI,False,M,NUP
+795636,Benjamin,Lucas,Ile-de-France,Yvelines,8,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,M,NUP
+719006,Fabrice,Le Vigoureux,Normandie,Calvados,1,Professeur des Universités,Non inscrit,NI,True,M,ENS
+721852,Marie,Lebec,Ile-de-France,Yvelines,4,Consultante en affaires publiques,Non inscrit,NI,True,F,ENS
+720230,Lise,Magnier,Grand Est,Marne,4,cadre territorial,Non inscrit,NI,True,F,ENS
+793238,Christophe,Barthès,Occitanie,Aude,1,Agriculteur sur moyenne exploitation,Non inscrit,NI,False,M,RN
+774954,Anne-Laure,Blin,Pays de la Loire,Maine-et-Loire,3,Juriste,Non inscrit,NI,True,F,LR
+793174,Yannick,Monnet,Auvergne-Rhône-Alpes,Allier,1,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+267766,Guy,Bricout,Hauts-de-France,Nord,18,Retraité fonction publique (hors enseignement),Non inscrit,NI,True,M,UDI
+721296,Guillaume,Gouffier-Cha,Ile-de-France,Val-de-Marne,6,Manager public,Non inscrit,NI,True,M,ENS
+794118,Antoine,Vermorel-Marques,Auvergne-Rhône-Alpes,Loire,5,Conseiller parlementaire,Non inscrit,NI,False,M,LR
+793508,Hubert,Brigand,Bourgogne-Franche-Comté,Côte-d'Or,4,Ancienne profession intermédiaire,Non inscrit,NI,False,M,LR
+721880,Marie,Guévenoux,Ile-de-France,Essonne,9,Collaborateur politique,Non inscrit,NI,True,F,ENS
+720446,Brigitte,Liso,Hauts-de-France,Nord,4,Commerçant,Non inscrit,NI,True,F,ENS
+794066,Frédéric,Mathieu,Bretagne,Ille-et-Vilaine,1,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+642847,Thibault,Bazin,Grand Est,Meurthe-et-Moselle,4,Autre cadre (secteur privé),Non inscrit,NI,True,M,LR
+795192,Steve,Chailloux,Polynésie française,Polynésie française,2,"Professeur, profession scientifique",Non inscrit,NI,False,M,REG
+793948,Nicolas,Thierry,Nouvelle-Aquitaine,Gironde,2,Consultant en développement durable,Non inscrit,NI,False,M,NUP
+793330,Bryan,Masson,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,6,Profession intermédiaire administrative de la fonction publique,Non inscrit,NI,False,M,RN
+609332,Olivier,Faure,Ile-de-France,Seine-et-Marne,11,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,NUP
+720138,Laetitia,Saint-Paul,Pays de la Loire,Maine-et-Loire,4,Officier de l'armée de Terre,Non inscrit,NI,True,F,ENS
+721004,Amélia,Lakrafi,Français établis hors de France,Français établis hors de France,10,Chef d'entreprise,Non inscrit,NI,True,F,ENS
+719914,Geneviève,Darrieussecq,Nouvelle-Aquitaine,Landes,1,Médecin,Non inscrit,NI,False,F,ENS
+719512,Corinne,Vignon,Occitanie,Haute-Garonne,3,Cadre supérieur (secteur privé),Non inscrit,NI,True,F,ENS
+330240,Éric,Ciotti,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,1,Autre profession,Non inscrit,NI,True,M,LR
+795330,Eléonore,Caroit,Français établis hors de France,Français établis hors de France,2,Profession libérale,Non inscrit,NI,False,F,ENS
+794702,Delphine,Lingemann,Auvergne-Rhône-Alpes,Puy-de-Dôme,4,Chef d'entreprise - Enseignante associée université,Non inscrit,NI,False,F,ENS
+267780,Agnès,Firmin Le Bodo,Normandie,Seine-Maritime,7,Pharmacien,Non inscrit,NI,True,F,ENS
+342384,Élisa,Martin,Auvergne-Rhône-Alpes,Isère,3,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+721816,Ian,Boucard,Bourgogne-Franche-Comté,Territoire de Belfort,1,Autre cadre (secteur privé),Non inscrit,NI,True,M,LR
+721410,Émilie,Bonnivard,Auvergne-Rhône-Alpes,Savoie,3,Cadre à la Caisse des Dépôts et Consignations,Non inscrit,NI,True,F,LR
+793254,Julien,Rancoule,Occitanie,Aude,3,Profession libérale,Non inscrit,NI,False,M,RN
+793816,Mélanie,Thomin,Bretagne,Finistère,6,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+330357,Olivier,Dussopt,Auvergne-Rhône-Alpes,Ardèche,2,Assistant parlementaire,Non inscrit,NI,False,M,ENS
+796034,Frank,Giletti,Provence-Alpes-Côte d'Azur,Var,6,Fonctionnaire,Non inscrit,NI,False,M,RN
+721170,Stéphane,Vojetta,Français établis hors de France,Français établis hors de France,5,Entrepreneur,Non inscrit,NI,True,M,DVC
+794130,Andy,Kerbrat,Pays de la Loire,Loire-Atlantique,2,Chargé d'assitance automobile,Non inscrit,NI,False,M,NUP
+794954,Emeric,Salmon,Bourgogne-Franche-Comté,Haute-Saône,2,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+342196,Claudia,Rouaux,Bretagne,Ille-et-Vilaine,3,Gestionnaire à l'INRAE,Non inscrit,NI,True,F,NUP
+795844,Karen,Erodi,Occitanie,Tarn,2,Profession libérale,Non inscrit,NI,False,F,NUP
+774958,Gérard,Leseul,Normandie,Seine-Maritime,5,Cadre d'entreprise / enseignant universitaire,Non inscrit,NI,True,M,NUP
+1008,Alain,David,Nouvelle-Aquitaine,Gironde,4,Ingénieur,Non inscrit,NI,True,M,NUP
+793884,Sébastien,Rome,Occitanie,Hérault,4,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,M,NUP
+796110,Joris,Hébrard,Provence-Alpes-Côte d'Azur,Vaucluse,1,Profession libérale,Non inscrit,NI,False,M,RN
+719930,Boris,Vallaud,Nouvelle-Aquitaine,Landes,3,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,NUP
+795010,Marie-Charlotte,Garin,Auvergne-Rhône-Alpes,Rhône,3,Collaboratrice politique en collectivité locale,Non inscrit,NI,False,F,NUP
+719528,Jean-François,Portarrieu,Occitanie,Haute-Garonne,5,Journaliste,Non inscrit,NI,True,M,ENS
+793122,Romain,Daubié,Auvergne-Rhône-Alpes,Ain,2,Avocat,Non inscrit,NI,False,M,ENS
+721522,Xavier,Batut,Normandie,Seine-Maritime,10,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+793688,Pascale,Martin,Nouvelle-Aquitaine,Dordogne,1,Ancien cadre,Non inscrit,NI,False,F,NUP
+795908,Yannick,Chenevard,Provence-Alpes-Côte d'Azur,Var,1,Profession libérale,Non inscrit,NI,False,M,ENS
+795270,Marie-Agnès,Poussier-Winsback,Normandie,Seine-Maritime,9,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,F,ENS
+794022,Jérémie,Iordanoff,Auvergne-Rhône-Alpes,Isère,5,Artiste-peintre,Non inscrit,NI,False,M,NUP
+722336,Vincent,Thiébaut,Grand Est,Bas-Rhin,9,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+719100,Jean-Philippe,Ardouin,Nouvelle-Aquitaine,Charente-Maritime,3,Chef d'entreprise,Non inscrit,NI,True,M,ENS
+721426,Véronique,Riotton,Auvergne-Rhône-Alpes,Haute-Savoie,1,Consultante-Coach en Ressources Humaines,Non inscrit,NI,True,F,ENS
+720386,Fabien,Di Filippo,Grand Est,Moselle,4,Ancien cadre du secteur privé,Non inscrit,NI,True,M,LR
+610002,Eva,Sas,Ile-de-France,Paris,8,Cadre supérieur du secteur privé,Non inscrit,NI,False,F,NUP
+719558,Erwan,Balanant,Bretagne,Finistère,8,Photographe et réalisateur,Non inscrit,NI,True,M,ENS
+796050,Philippe,Schreck,Provence-Alpes-Côte d'Azur,Var,8,Profession libérale ,Non inscrit,NI,False,M,RN
+722390,Josiane,Corneloup,Bourgogne-Franche-Comté,Saône-et-Loire,2,Pharmacien,Non inscrit,NI,True,F,LR
+795982,Aurélien,Saintoul,Ile-de-France,Hauts-de-Seine,11,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+794886,Sophie,Blanc,Occitanie,Pyrénées-Orientales,1,Profession libérale,Non inscrit,NI,False,F,RN
+719372,Guillaume,Kasbarian,Centre-Val de Loire,Eure-et-Loir,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+721750,Céline,Calvez,Ile-de-France,Hauts-de-Seine,5,Consultante communication,Non inscrit,NI,True,F,ENS
+721932,Marie-France,Lorho,Provence-Alpes-Côte d'Azur,Vaucluse,4,Déléguée médicale,Non inscrit,NI,True,F,RN
+720668,Emmanuel,Blairy,Hauts-de-France,Pas-de-Calais,1,Fonctionnaire territorial,Non inscrit,NI,True,M,RN
+346054,Emmanuel,Maquet,Hauts-de-France,Somme,3,Agent général d'assurances,Non inscrit,NI,True,M,LR
+794470,Félicie,Gérard,Hauts-de-France,Nord,7,"Contremaître, agent de maîtrise",Non inscrit,NI,False,F,ENS
+719608,Emmanuelle,Ménard,Occitanie,Hérault,6,Journaliste et autre média,Non inscrit,NI,True,F,DVD
+793464,Sébastien,Delogu,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,7,Sans profession,Non inscrit,NI,False,M,NUP
+642988,Hervé,de Lépinau,Provence-Alpes-Côte d'Azur,Vaucluse,3,Avocat,Non inscrit,NI,False,M,RN
+795652,Alexis,Izard,Ile-de-France,Essonne,3,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,ENS
+721442,Christelle,Petex-Levet,Auvergne-Rhône-Alpes,Haute-Savoie,3,Cadre administratif et commercial d'entreprise,Non inscrit,NI,True,F,LR
+793772,Christophe,Bex,Occitanie,Haute-Garonne,7,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+607193,Sophie,Errante,Pays de la Loire,Loire-Atlantique,10,Industriel-Chef d'entreprise,Non inscrit,NI,True,F,ENS
+719266,Jean-Pierre,Cubertafon,Nouvelle-Aquitaine,Dordogne,3,Retraité des professions libérales,Non inscrit,NI,True,M,ENS
+795920,Prisca,Thevenot,Ile-de-France,Hauts-de-Seine,8,collaboratrice parlementaire,Non inscrit,NI,False,F,ENS
+794830,Hubert,Ott,Grand Est,Haut-Rhin,2,"Professeur, profession scientifique",Non inscrit,NI,False,M,ENS
+793572,Christophe,Plassard,Nouvelle-Aquitaine,Charente-Maritime,5,Profession libérale,Non inscrit,NI,False,M,ENS
+720692,Fabien,Roussel,Hauts-de-France,Nord,20,Attaché parlementaire,Non inscrit,NI,True,M,NUP
+793520,Mickaël,Cosson,Bretagne,Côtes-d'Armor,1,Chargé d'opérations urbanisme,Non inscrit,NI,False,M,ENS
+643143,Christian,Baptiste,Guadeloupe,Guadeloupe,2,Directeur d'association,Non inscrit,NI,False,M,DVG
+794418,Florence,Goulet,Grand Est,Meuse,2,Cadre de la fonction publique,Non inscrit,NI,False,F,RN
+795084,Rodrigo,Arenas,Ile-de-France,Paris,10,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+719436,Nicolas,Meizonnet,Occitanie,Gard,2,Ingénieur en informatique ,Non inscrit,NI,True,M,RN
+334116,Jacqueline,Maquet,Hauts-de-France,Pas-de-Calais,2,Directrice de mission,Non inscrit,NI,True,F,ENS
+719024,Christophe,Blanchet,Normandie,Calvados,4,Commerçant,Non inscrit,NI,True,M,ENS
+608695,Cécile,Untermaier,Bourgogne-Franche-Comté,Saône-et-Loire,4,Fonctionnaire des grands corps de l'État,Non inscrit,NI,True,F,NUP
+720286,Caroline,Fiat,Grand Est,Meurthe-et-Moselle,6,Salariée du secteur médical,Non inscrit,NI,True,F,NUP
+793342,Alexandra,Martin,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,8,Employé civil et agent de service de la fonction publique,Non inscrit,NI,False,F,LR
+795990,Maud,Bregeon,Ile-de-France,Hauts-de-Seine,13,Ingénieur et cadre technique d'entreprise,Non inscrit,NI,False,F,ENS
+267324,Jean-Jacques,Gaultier,Grand Est,Vosges,4,Médecin biologiste,Non inscrit,NI,True,M,LR
+720154,Nicole,Dubré-Chirat,Pays de la Loire,Maine-et-Loire,6,Retraitée de la fonction publique hospitalière et chargée de formation,Non inscrit,NI,True,F,ENS
+721336,Blandine,Brocard,Auvergne-Rhône-Alpes,Rhône,5,Employée (secteur privé),Non inscrit,NI,True,F,ENS
+719382,Luc,Lamirault,Centre-Val de Loire,Eure-et-Loir,3,chef d'entreprise,Non inscrit,NI,True,M,ENS
+795864,Pierre,Cazeneuve,Ile-de-France,Hauts-de-Seine,7,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+794770,Michèle,Martinez,Occitanie,Pyrénées-Orientales,4,Sans profession déclarée,Non inscrit,NI,False,F,RN
+795786,Yaël,Menache,Hauts-de-France,Somme,5,Commerciale,Non inscrit,NI,False,F,RN
+794486,Violette,Spillebout,Hauts-de-France,Nord,9,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
+720720,Josy,Poueyto,Nouvelle-Aquitaine,Pyrénées-Atlantiques,1,Retraitée de la fonction publique (hors enseignement),Non inscrit,NI,True,F,ENS
+793476,Francis,Dubois,Nouvelle-Aquitaine,Corrèze,1,Technicien,Non inscrit,NI,False,M,LR
+795664,Paul,Midy,Ile-de-France,Essonne,5,Chef d'entreprise de 10 salariés ou plus,Non inscrit,NI,False,M,ENS
+794582,Kévin,Pfeffer,Grand Est,Moselle,6,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+795588,Farida,Amrani,Ile-de-France,Essonne,1,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+720074,Caroline,Janvier,Centre-Val de Loire,Loiret,2,Autre cadre (secteur privé),Non inscrit,NI,True,F,ENS
+793716,Laurent,Croizier,Bourgogne-Franche-Comté,Doubs,1,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,M,ENS
+793262,Laurent,Alexandre,Occitanie,Aveyron,2,Ouvrier qualifié de type industriel,Non inscrit,NI,False,M,NUP
+722190,Gabriel,Attal,Ile-de-France,Hauts-de-Seine,10,Consultant,Non inscrit,NI,False,M,ENS
+721710,Michèle,Peyron,Ile-de-France,Seine-et-Marne,9,Autre cadre (secteur privé),Non inscrit,NI,True,F,ENS
+721314,Raphaël,Schellenberger,Grand Est,Haut-Rhin,4,Attaché Parlementaire,Non inscrit,NI,True,M,LR
+783457,Victor,Habert-Dassault,Hauts-de-France,Oise,1,Avocat,Non inscrit,NI,True,M,LR
+335758,Franck,Riester,Ile-de-France,Seine-et-Marne,5,Chef d'entreprise,Non inscrit,NI,False,M,ENS
+794146,Julie,Laernoes,Pays de la Loire,Loire-Atlantique,4,Ancien cadre,Non inscrit,NI,False,F,NUP
+1874,Marc,Le Fur,Bretagne,Côtes-d'Armor,3,Sous-préfet,Non inscrit,NI,True,M,LR
+795730,Bastien,Marchive,Nouvelle-Aquitaine,Deux-Sèvres,1,Juriste,Non inscrit,NI,False,M,ENS
+794434,Christophe,Bentz,Grand Est,Haute-Marne,1,"Professeur, profession scientifique",Non inscrit,NI,False,M,RN
+794658,Philippe,Fait,Hauts-de-France,Pas-de-Calais,4,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,M,ENS
+717161,Élisabeth,Borne,Normandie,Calvados,6,"Ingénieure générale des ponts, des eaux et des forêts de classe exceptionnelle ",Non inscrit,NI,False,F,ENS
+720334,Jimmy,Pahun,Bretagne,Morbihan,2,Navigateur,Non inscrit,NI,True,M,ENS
+719600,Éric,Poulliat,Nouvelle-Aquitaine,Gironde,6,Fonctionnaire de catégorie B,Non inscrit,NI,True,M,ENS
+340343,Hervé,Saulignac,Auvergne-Rhône-Alpes,Ardèche,1,Cadre (entreprises publiques),Non inscrit,NI,True,M,DVG
+421348,André,Villiers,Bourgogne-Franche-Comté,Yonne,2,Agriculteur-propriétaire exploitant,Non inscrit,NI,True,M,ENS
+266797,Philippe,Gosselin,Normandie,Manche,1,Maître de conférences à Sciences Po,Non inscrit,NI,True,M,LR
+794914,Alexandre,Vincendet,Auvergne-Rhône-Alpes,Rhône,7,Elu local,Non inscrit,NI,False,M,LR
+718850,Pierre,Cordier,Grand Est,Ardennes,2,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,LR
+794198,Roger,Chudeau,Centre-Val de Loire,Loir-et-Cher,2,Inspecteur général de l'éducation nationale honoraire ,Non inscrit,NI,False,M,RN
+793134,Jérôme,Buisson,Auvergne-Rhône-Alpes,Ain,4,Professeur d'italien,Non inscrit,NI,False,M,RN
+346782,Philippe,Juvin,Ile-de-France,Hauts-de-Seine,3,Professeur de médecine,Non inscrit,NI,False,M,LR
+795350,Frédéric,Valletoux,Ile-de-France,Seine-et-Marne,2,Profession de l'information,Non inscrit,NI,False,M,ENS
+332228,Thierry,Benoit,Bretagne,Ille-et-Vilaine,6,Représentant de commerce,Non inscrit,NI,True,M,ENS
+720684,Pierre-Henri,Dumont,Hauts-de-France,Pas-de-Calais,7,Collaborateur parlementaire,Non inscrit,NI,True,M,LR
+605782,Laurent,Marcangeli,Corse,Corse-du-Sud,1,Avocat,Non inscrit,NI,False,M,ENS
+794598,Laurent,Jacobelli,Grand Est,Moselle,8,"Profession de l'information, des arts et des spectacles",Non inscrit,NI,False,M,RN
+794038,Yannick,Neuder,Auvergne-Rhône-Alpes,Isère,7,Cardiologue,Non inscrit,NI,False,M,LR
+795604,Estelle,Folest,Ile-de-France,Val-d'Oise,6,Directrice de la communication,Non inscrit,NI,False,F,ENS
+794322,Thomas,Ménagé,Centre-Val de Loire,Loiret,4,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+720846,Bastien,Lachaud,Ile-de-France,Seine-Saint-Denis,6,Professeur du secondaire et technique,Non inscrit,NI,True,M,NUP
+793278,Sabrina,Agresti-Roubache,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,1,Profession libérale,Non inscrit,NI,False,F,ENS
+721474,Stéphane,Viry,Grand Est,Vosges,1,Avocat,Non inscrit,NI,True,M,LR
+721270,Stéphane,Peu,Ile-de-France,Seine-Saint-Denis,2,Employé,Non inscrit,NI,True,M,NUP
+722162,Nicolas,Turquois,Nouvelle-Aquitaine,Vienne,4,Agriculteur-propriétaire exploitant,Non inscrit,NI,True,M,ENS
+794154,Jean-Claude,Raux,Pays de la Loire,Loire-Atlantique,6,"Professeur, profession scientifique",Non inscrit,NI,False,M,NUP
+309643,Véronique,Besse,Pays de la Loire,Vendée,4,Journaliste,Non inscrit,NI,False,F,DVD
+607619,Paul,Molac,Bretagne,Morbihan,4,Professeur du secondaire,Non inscrit,NI,True,M,REG
+721984,Philippe,Latombe,Pays de la Loire,Vendée,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+793980,Charles,Fournier,Centre-Val de Loire,Indre-et-Loire,1,consultant - formateur,Non inscrit,NI,False,M,NUP
+793354,Joëlle,Mélin,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,9,Médecin expert judiciaire,Non inscrit,NI,False,F,RN
+721262,Guillaume,Vuilletet,Ile-de-France,Val-d'Oise,2,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+793912,Sylvain,Carrière,Occitanie,Hérault,8,Employé de commerce,Non inscrit,NI,False,M,NUP
+796132,Raquel,Garrido,Ile-de-France,Seine-Saint-Denis,5,Avocate,Non inscrit,NI,False,F,NUP
+794214,Quentin,Bataillon,Auvergne-Rhône-Alpes,Loire,1,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,ENS
+795026,Anne-Cécile,Violland,Auvergne-Rhône-Alpes,Haute-Savoie,5,Profession libérale,Non inscrit,NI,False,F,ENS
+793780,Christine,Arrighi,Occitanie,Haute-Garonne,9,Ancien cadre,Non inscrit,NI,False,F,NUP
+793146,Nicolas,Dragon,Hauts-de-France,Aisne,1,Profession libérale,Non inscrit,NI,False,M,RN
+795362,Lisa,Belluco,Nouvelle-Aquitaine,Vienne,1,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+794094,Mickaël,Bouloux,Bretagne,Ille-et-Vilaine,8,Ingénieur et cadre technique d'entreprise,Non inscrit,NI,False,M,NUP
+719874,Élodie,Jacquier-Laforge,Auvergne-Rhône-Alpes,Isère,9,Cadre supérieur (secteur privé),Non inscrit,NI,True,F,ENS
+605745,Nicolas,Sansu,Centre-Val de Loire,Cher,2,Permanent politique,Non inscrit,NI,False,M,NUP
+795156,Fatiha,Keloua Hachi,Ile-de-France,Seine-Saint-Denis,8,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+606639,Patrick,Vignal,Occitanie,Hérault,9,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+335054,Marietta,Karamanli,Pays de la Loire,Sarthe,2,Professeur dans l'enseignement supérieur,Non inscrit,NI,True,F,NUP
+793852,Pierre,Meurin,Occitanie,Gard,4,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+796070,Perceval,Gaillard,La Réunion,La Réunion,7,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,M,DVG
+795430,Stéphane,Delautrette,Nouvelle-Aquitaine,Haute-Vienne,2,Ingénieur dans le domaine de l'environnement,Non inscrit,NI,False,M,NUP
+794982,Julie,Delpech,Pays de la Loire,Sarthe,1,Chargée de communication,Non inscrit,NI,False,F,ENS
+793094,Nicolas,Ray,Auvergne-Rhône-Alpes,Allier,3,Inspecteur principal des Finances publiques,Non inscrit,NI,False,M,LR
+721062,Jean-Hugues,Ratenon,La Réunion,La Réunion,5,Employé (secteur privé),Non inscrit,NI,True,M,DVG
+719388,Annaïg,Le Meur,Bretagne,Finistère,1,Autre profession libérale,Non inscrit,NI,True,F,ENS
+795868,Jean-Victor,Castor,Guyane,Guyane,1,Ingénieur et cadre technique d'entreprise,Non inscrit,NI,False,M,REG
+588884,Clémentine,Autain,Ile-de-France,Seine-Saint-Denis,11,Journaliste et autre média,Non inscrit,NI,True,F,NUP
+793992,Henri,Alfandari,Centre-Val de Loire,Indre-et-Loire,3,"Ancien artisan, commerçant, chef d'entreprise",Non inscrit,NI,False,M,ENS
+794786,Emmanuel,Fernandes,Grand Est,Bas-Rhin,2,Profession intermédiaire administrative et commerciale des entreprises,Non inscrit,NI,False,M,NUP
+795100,Éric,Martineau,Pays de la Loire,Sarthe,3,Agriculteur sur moyenne exploitation,Non inscrit,NI,False,M,ENS
+794494,Roger,Vicot,Hauts-de-France,Nord,11,Intervenant en communication,Non inscrit,NI,False,M,NUP
+720952,Aurélien,Taché,Ile-de-France,Val-d'Oise,10,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,NUP
+717379,Sylvain,Maillard,Ile-de-France,Paris,1,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+719472,Jean-René,Cazeneuve,Occitanie,Gers,1,Ingénieur,Non inscrit,NI,True,M,ENS
+796010,Frédéric,Maillot,La Réunion,La Réunion,6,Intervenant social,Non inscrit,NI,False,M,DVG
+793724,Michel,Sala,Occitanie,Gard,5,Ancien CADRE SECTEUR BANCAIRE,Non inscrit,NI,False,M,NUP
+774962,Karine,Lebon,La Réunion,La Réunion,2,Professeure des écoles,Non inscrit,NI,True,F,DVG
+719890,Danielle,Brulebois,Bourgogne-Franche-Comté,Jura,1,Retraitée de l'enseignement,Non inscrit,NI,True,F,ENS
+720728,Jean-Paul,Mattei,Nouvelle-Aquitaine,Pyrénées-Atlantiques,2,Notaire,Non inscrit,NI,True,M,ENS
+793592,Géraldine,Grangier,Bourgogne-Franche-Comté,Doubs,4,Profession intermédiaire administrative de la fonction publique,Non inscrit,NI,False,F,RN
+721094,Philippe,Dunoyer,Nouvelle-Calédonie,Nouvelle-Calédonie,1,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,ENS
+794570,Alexandre,Sabatou,Hauts-de-France,Oise,3,Chef de projets SI,Non inscrit,NI,False,M,RN
+642695,Éric,Bothorel,Bretagne,Côtes-d'Armor,5,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+722134,Jean-Marie,Fiévet,Nouvelle-Aquitaine,Deux-Sèvres,3,Fonctionnaire de catégorie B,Non inscrit,NI,True,M,ENS
+333285,Guillaume,Garot,Pays de la Loire,Mayenne,1,Cadre administratif,Non inscrit,NI,True,M,NUP
+719632,Sophie,Panonacle,Nouvelle-Aquitaine,Gironde,8,Sans profession déclarée,Non inscrit,NI,True,F,ENS
+794670,Caroline,Parmentier,Hauts-de-France,Pas-de-Calais,9,Attachée de Presse,Non inscrit,NI,False,F,RN
+266793,Jean-Yves,Bony,Auvergne-Rhône-Alpes,Cantal,2,Exploitant agricole,Non inscrit,NI,True,M,LR
+267901,Mansour,Kamardine,Mayotte,Mayotte,2,Avocat,Non inscrit,NI,True,M,LR
+794994,Alexandre,Portier,Auvergne-Rhône-Alpes,Rhône,9,"Professeur, profession scientifique",Non inscrit,NI,False,M,LR
+719488,Philippe,Berta,Occitanie,Gard,6,Professeur de faculté,Non inscrit,NI,True,M,ENS
+607395,Stéphane,Travert,Normandie,Manche,3,Cadre secteur privé,Non inscrit,NI,True,M,ENS
+722374,Cyrille,Isaac-Sibille,Auvergne-Rhône-Alpes,Rhône,12,Médecin,Non inscrit,NI,True,M,ENS
+793656,Lisette,Pollet,Auvergne-Rhône-Alpes,Drôme,2,Ouvrier qualifié de type industriel,Non inscrit,NI,False,F,RN
+718860,Bénédicte,Taurine,Occitanie,Ariège,1,Professeur du secondaire et technique,Non inscrit,NI,True,F,NUP
+795884,Marc,Ferracci,Français établis hors de France,Français établis hors de France,6,"Professeur, profession scientifique",Non inscrit,NI,False,M,ENS
+794798,Françoise,Buffet,Grand Est,Bas-Rhin,4,"Ancien artisan, commerçant, chef d'entreprise",Non inscrit,NI,False,F,ENS
+720992,Jiovanny,William,Martinique,Martinique,1,,Non inscrit,NI,False,M,DVG
+794510,Christine,Decodts,Hauts-de-France,Nord,13,Ancien cadre,Non inscrit,NI,False,F,ENS
+720586,Pierre,Vatin,Hauts-de-France,Oise,5,Permanent politique,Non inscrit,NI,True,M,LR
+719138,Michel,Castellani,Corse,Haute-Corse,1,Professeur des Universités,Non inscrit,NI,True,M,REG
+722046,Aurore,Bergé,Ile-de-France,Yvelines,10,Cadre supérieur (secteur privé),Non inscrit,NI,True,F,ENS
+721498,Stanislas,Guerini,Ile-de-France,Paris,3,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+720560,Perrine,Goulet,Bourgogne-Franche-Comté,Nièvre,1,Autre cadre (secteur privé),Non inscrit,NI,True,F,ENS
+795616,Carlos Martens,Bilongo,Ile-de-France,Val-d'Oise,8,"Professeur, profession scientifique",Non inscrit,NI,False,M,NUP
+720092,Richard,Ramos,Centre-Val de Loire,Loiret,6,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+793290,Gisèle,Lelouis,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,3,Ancien employé ,Non inscrit,NI,False,F,RN
+721764,Olivia,Grégoire,Ile-de-France,Paris,12,Chef d'entreprise ,Non inscrit,NI,False,F,ENS
+721486,Christophe,Naegelen,Grand Est,Vosges,3,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,DVD
+794854,Inaki,Echaniz,Nouvelle-Aquitaine,Pyrénées-Atlantiques,4,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+719294,Mireille,Clapot,Auvergne-Rhône-Alpes,Drôme,1,Cadre supérieur (entreprises publiques),Non inscrit,NI,True,F,ENS
+795820,Marcellin,Nadeau,Martinique,Martinique,2,Cadre de la fonction publique,Non inscrit,NI,False,M,REG
+794166,Matthias,Tavel,Pays de la Loire,Loire-Atlantique,8,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+719080,Sandra,Marsaud,Nouvelle-Aquitaine,Charente,2,Cadre (entreprises publiques),Non inscrit,NI,True,F,ENS
+721896,Elsa,Faucillon,Ile-de-France,Hauts-de-Seine,1,Employée du secteur privé,Non inscrit,NI,True,F,NUP
+267042,Yannick,Favennec-Bécot,Pays de la Loire,Mayenne,3,Directeur de cabinet,Non inscrit,NI,True,M,ENS
+795298,Jérôme,Legavre,Ile-de-France,Seine-Saint-Denis,12,Professeur de lettres,Non inscrit,NI,False,M,NUP
+720614,Marine,Le Pen,Hauts-de-France,Pas-de-Calais,11,Avocate,Non inscrit,NI,True,F,RN
+793432,Franck,Allisio,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,12,Profession libérale,Non inscrit,NI,False,M,RN
+720354,Jean-Michel,Jacques,Bretagne,Morbihan,6,Infirmier des forces spéciales,Non inscrit,NI,True,M,ENS
+718930,Anne-Laurence,Petel,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,14,Chargée des relations extérieures - secteur télécom,Non inscrit,NI,True,F,ENS
+720908,Naïma,Moutchou,Ile-de-France,Val-d'Oise,4,Avocat,Non inscrit,NI,True,F,ENS
+794278,Xavier,Albertini,Grand Est,Marne,1,Profession libérale,Non inscrit,NI,False,M,ENS
+719318,Emmanuelle,Anthoine,Auvergne-Rhône-Alpes,Drôme,4,Avocate,Non inscrit,NI,True,F,LR
+793218,Jordan,Guitton,Grand Est,Aube,1,Assistant Parlementaire,Non inscrit,NI,False,M,RN
+794810,Louise,Morel,Grand Est,Bas-Rhin,6,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
+266788,Pierre,Morel-À-L'Huissier,Occitanie,Lozère,1,Avocat,Non inscrit,NI,True,M,UDI
+605069,Jean-Louis,Bricout,Hauts-de-France,Aisne,3,Cadre (secteur privé),Non inscrit,NI,True,M,NUP
+794522,Pierrick,Berteloot,Hauts-de-France,Nord,15,Assistant Maitre d'Équipage - Assistant Toutes Catégories,Non inscrit,NI,False,M,RN
+795374,Pascal,Lecamp,Nouvelle-Aquitaine,Vienne,3,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,ENS
+794106,Andrée,Taurinya,Auvergne-Rhône-Alpes,Loire,2,"Professeur, profession scientifique ",Non inscrit,NI,False,F,NUP
+720630,Maxime,Minot,Hauts-de-France,Oise,7,Employé (secteur privé),Non inscrit,NI,True,M,LR
+719154,Didier,Martin,Bourgogne-Franche-Comté,Côte-d'Or,1,Neuroradiologue,Non inscrit,NI,True,M,ENS
+1567,Jérôme,Guedj,Ile-de-France,Essonne,6,Inspecteur général des Affaires sociales,Non inscrit,NI,False,M,NUP
+720422,Adrien,Quatennens,Hauts-de-France,Nord,1,Employé (secteur privé),Non inscrit,NI,True,M,NUP
+721916,Natalia,Pouzyreff,Ile-de-France,Yvelines,6,Ingénieure,Non inscrit,NI,True,F,ENS
+720014,Huguette,Tiegna,Occitanie,Lot,2,"Docteur, Ingénieur Recherche et Dévelopement",Non inscrit,NI,True,F,ENS
+793928,Edwige,Diaz,Nouvelle-Aquitaine,Gironde,11,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,RN
+793306,Philippe,Pradal,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,3,Expert comptable,Non inscrit,NI,False,M,ENS
+736201,Sophie,Taillé-Polian,Ile-de-France,Val-de-Marne,11,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+1630,Michel,Herbillon,Ile-de-France,Val-de-Marne,8,Cadre supérieur,Non inscrit,NI,True,M,LR
+794178,Jean-Pierre,Taite,Auvergne-Rhône-Alpes,Loire,6,"Ancien artisan, commerçant, chef d'entreprise",Non inscrit,NI,False,M,LR
+793110,Léo,Walter,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,2,Directeur d'école,Non inscrit,NI,False,M,NUP
+795762,Elie,Califer,Guadeloupe,Guadeloupe,4,Ancien cadre,Non inscrit,NI,False,M,DVG
+795310,Clémence,Guetté,Ile-de-France,Val-de-Marne,2,Responsable du programme LFI,Non inscrit,NI,False,F,NUP
+794686,Marianne,Maximi,Auvergne-Rhône-Alpes,Puy-de-Dôme,1,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,F,NUP
+795244,Stéphane,Lenormand,Saint-Pierre-et-Miquelon,Saint-Pierre-et-Miquelon,1,Ancien cadre,Non inscrit,NI,False,M,DVD
+719822,Sabine,Thillaye,Centre-Val de Loire,Indre-et-Loire,5,Ancien Chef d'entreprise,Non inscrit,NI,True,F,ENS
+793382,Emmanuel,Taché de la Pagerie,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,16,Cadre de la fonction publique,Non inscrit,NI,False,M,RN
+721844,Béatrice,Piron,Ile-de-France,Yvelines,3,Chef d'entreprise,Non inscrit,NI,True,F,ENS
+720222,Éric,Girardin,Grand Est,Marne,3,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+267318,Jean-Carles,Grelier,Pays de la Loire,Sarthe,5,Avocat,Non inscrit,NI,True,M,ENS
+793230,Angélique,Ranc,Grand Est,Aube,3,Sans activité professionnelle,Non inscrit,NI,False,F,RN
+643175,Stella,Dupont,Pays de la Loire,Maine-et-Loire,2,Comptable,Non inscrit,NI,True,F,ENS
+719404,Didier,Le Gac,Bretagne,Finistère,3,Profession rattachée à l'enseignement,Non inscrit,NI,True,M,ENS
+793166,Jocelyn,Dessigny,Hauts-de-France,Aisne,5,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+791824,Sarah,Legrain,Ile-de-France,Paris,16,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+795386,Mathieu,Lefèvre,Ile-de-France,Val-de-Marne,5,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+267429,Dino,Cinieri,Auvergne-Rhône-Alpes,Loire,4,Consultant sécurité,Non inscrit,NI,True,M,LR
+794058,Justine,Gruet,Bourgogne-Franche-Comté,Jura,3,Masseur Kinésithérapeute,Non inscrit,NI,False,F,LR
+795184,Tematai,Le Gayic,Polynésie française,Polynésie française,1,étudiant,Non inscrit,NI,False,M,REG
+793940,Thomas,Cazenave,Nouvelle-Aquitaine,Gironde,1,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+793322,Christelle,D'Intorni,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,5,Profession libérale,Non inscrit,NI,False,F,LR
+719668,Patricia,Mirallès,Occitanie,Hérault,1,Sans profession,Non inscrit,NI,True,F,ENS
+722038,Damien,Adam,Normandie,Seine-Maritime,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+795454,Karim,Ben Cheikh,Français établis hors de France,Français établis hors de France,9,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+607090,Jean-Pierre,Vigier,Auvergne-Rhône-Alpes,Haute-Loire,2,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,LR
+722284,Bruno,Fuchs,Grand Est,Haut-Rhin,6,Chef d'entreprise,Non inscrit,NI,True,M,ENS
+793744,Anne,Stambach-Terrenoir,Occitanie,Haute-Garonne,2,Sans profession déclarée,Non inscrit,NI,False,F,NUP
+267336,Joël,Giraud,Provence-Alpes-Côte d'Azur,Hautes-Alpes,2,Administrateur civil hors-classe,Non inscrit,NI,False,M,ENS
+721134,Roland,Lescure,Français établis hors de France,Français établis hors de France,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+695100,Meyer,Habib,Français établis hors de France,Français établis hors de France,8,Ingénieur,Non inscrit,NI,True,M,UDI
+795258,Frantz,Gumbs,Saint-Barthélemy et Saint-Martin,Saint-Barthélemy et Saint-Martin,1,Personnel de direction de l'éducation nationale,Non inscrit,NI,False,M,DVC
+794008,Cyrielle,Chatelain,Auvergne-Rhône-Alpes,Isère,2,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+266808,Vincent,Rolland,Auvergne-Rhône-Alpes,Savoie,2,Collaborateur parlementaire,Non inscrit,NI,True,M,LR
+795058,Julien,Bayou,Ile-de-France,Paris,5,Avocat,Non inscrit,NI,False,M,NUP
+719338,Graziella,Melchior,Bretagne,Finistère,5,Professeure agrégée,Non inscrit,NI,True,F,ENS
+793182,Jorys,Bovet,Auvergne-Rhône-Alpes,Allier,2,Chauffeur-livreur,Non inscrit,NI,False,M,RN
+796026,Julie,Lechanteux,Provence-Alpes-Côte d'Azur,Var,5,Personne diverse sans activité professionnelle de moins de 60 ans,Non inscrit,NI,False,F,RN
+721158,Pieyre-Alexandre,Anglade,Français établis hors de France,Français établis hors de France,4,Agent contractuel au Parlement européen,Non inscrit,NI,True,M,ENS
+794946,Antoine,Villedieu,Bourgogne-Franche-Comté,Haute-Saône,1,Policier,Non inscrit,NI,False,M,RN
+795958,Benjamin,Haddad,Ile-de-France,Paris,14,"Professeur, profession scientifique",Non inscrit,NI,False,M,ENS
+719718,Laurence,Maillart-Méhaignerie,Bretagne,Ille-et-Vilaine,2,Chef entreprise,Non inscrit,NI,True,F,ENS
+720772,Vincent,Bru,Nouvelle-Aquitaine,Pyrénées-Atlantiques,6,Professeur de faculté,Non inscrit,NI,True,M,ENS
+793616,Kévin,Mauvieux,Normandie,Eure,3,Conseiller en assurance,Non inscrit,NI,False,M,RN
+795836,Frédéric,Cabrolier,Occitanie,Tarn,1,Conseiller protection sociale (Assurances),Non inscrit,NI,False,M,RN
+795200,Alma,Dufour,Normandie,Seine-Maritime,4,Responsable associative,Non inscrit,NI,False,F,NUP
+719578,Loïc,Prud'homme,Nouvelle-Aquitaine,Gironde,3,Fonctionnaire de catégorie B,Non inscrit,NI,True,M,NUP
+794450,Emmanuel,Lacresse,Grand Est,Meurthe-et-Moselle,2,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+793876,Laurence,Cristol,Occitanie,Hérault,3,Médecin spécialiste en onco-gériatrie,Non inscrit,NI,False,F,ENS
+793444,Manuel,Bompard,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,4,Ingénieur,Non inscrit,NI,False,M,NUP
+722110,Hubert,Wulfranc,Normandie,Seine-Maritime,3,Profession rattachée à l'enseignement,Non inscrit,NI,True,M,NUP
+722344,Hubert,Julien-Laferrière,Auvergne-Rhône-Alpes,Rhône,2,Professeur certifié de SES,Non inscrit,NI,True,M,NUP
+793756,François,Piquemal,Occitanie,Haute-Garonne,4,Enseignant,Non inscrit,NI,False,M,NUP
+793680,Catherine,Couturier,Nouvelle-Aquitaine,Creuse,1,Ancienne profession intermédiaire,Non inscrit,NI,False,F,NUP
+795900,Marine,Hamelet,Occitanie,Tarn-et-Garonne,2,Profession intermédiaire administrative et commerciale des entreprises ,Non inscrit,NI,False,F,RN
+335612,Jean-Paul,Lecoq,Normandie,Seine-Maritime,8,Fonctionnaire de catégorie B,Non inscrit,NI,True,M,NUP
+794818,Stéphanie,Kochert,Grand Est,Bas-Rhin,8,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,F,ENS
+793560,Anne-Laure,Babault,Nouvelle-Aquitaine,Charente-Maritime,2,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
+794538,Thibaut,François,Hauts-de-France,Nord,17,Cadre de la fonction publique,Non inscrit,NI,False,M,RN
+719186,Fadila,Khattabi,Bourgogne-Franche-Comté,Côte-d'Or,3,Professeur d'anglais CFA,Non inscrit,NI,True,F,ENS
+1206,Nicolas,Dupont-Aignan,Ile-de-France,Essonne,8,Administrateur de l'Etat,Non inscrit,NI,True,M,DSV
+794402,Charlotte,Leduc,Grand Est,Moselle,3,Archéozoologue,Non inscrit,NI,False,F,NUP
+774109,Clément,Beaune,Ile-de-France,Paris,7,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+719550,Liliana,Tanguy,Bretagne,Finistère,7,Cadre supérieur du secteur public,Non inscrit,NI,True,F,ENS
+794626,Benjamin,Saint-Huile,Hauts-de-France,Nord,3,Sans activité professionnelle,Non inscrit,NI,False,M,DVG
+796042,Frédéric,Boccaletti,Provence-Alpes-Côte d'Azur,Var,7,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,M,RN
+722382,Benjamin,Dirx,Bourgogne-Franche-Comté,Saône-et-Loire,1,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+794354,Hélène,Laporte,Nouvelle-Aquitaine,Lot-et-Garonne,2,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,F,RN
+795974,Philippe,Lottiaux,Provence-Alpes-Côte d'Azur,Var,4,Cadre de la fonction publique,Non inscrit,NI,False,M,RN
+795516,Maxime,Laisney,Ile-de-France,Seine-et-Marne,10,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,M,NUP
+794878,Benoit,Mournet,Occitanie,Hautes-Pyrénées,2,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+793632,Timothée,Houssin,Normandie,Eure,5,Cadre ,Non inscrit,NI,False,M,RN
+721584,Jean,Terlier,Occitanie,Tarn,3,Avocat,Non inscrit,NI,True,M,ENS
+720644,Jérôme,Nury,Normandie,Orne,3,Cadre de la fonction publique,Non inscrit,NI,True,M,LR
+609520,Barbara,Pompili,Hauts-de-France,Somme,2,Assistante parlementaire,Non inscrit,NI,False,F,ENS
+720480,Charlotte,Parmentier-Lecocq,Hauts-de-France,Nord,6,Industriel-Chef d'entreprise,Non inscrit,NI,True,F,ENS
+793892,Stéphanie,Galzy,Occitanie,Hérault,5,Employé administratif d'entreprise,Non inscrit,NI,False,F,RN
+720704,Laurence,Vichnievsky,Auvergne-Rhône-Alpes,Puy-de-Dôme,3,Magistrat,Non inscrit,NI,True,F,ENS
+340643,Lionel,Royer-Perreaut,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,6,Cadre,Non inscrit,NI,False,M,ENS
+795644,Nathalie,Da Conceicao Carvalho,Ile-de-France,Essonne,2,Profession libérale,Non inscrit,NI,False,F,RN
+721328,Anne,Brugnera,Auvergne-Rhône-Alpes,Rhône,4,Fonctionnaire de catégorie A,Non inscrit,NI,True,F,ENS
+793394,Arthur,Delaporte,Normandie,Calvados,2,"Professeur, profession scientifique",Non inscrit,NI,False,M,NUP
+721908,Yaël,Braun-Pivet,Ile-de-France,Yvelines,5,Avocate,Non inscrit,NI,True,F,ENS
+942,Charles,de Courson,Grand Est,Marne,5,Conseiller référendaire honoraire à la Cour des comptes,Non inscrit,NI,True,M,DVD
+793696,Serge,Muller,Nouvelle-Aquitaine,Dordogne,2,Profession intermédiaire de la santé et du travail social ,Non inscrit,NI,False,M,RN
+793246,Frédéric,Falcon,Occitanie,Aude,2,Commerçant et assimilé ,Non inscrit,NI,False,M,RN
+795912,Laure,Lavalette,Provence-Alpes-Côte d'Azur,Var,2,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,F,RN
+643184,Brigitte,Klinkert,Grand Est,Haut-Rhin,1,Ancien cadre,Non inscrit,NI,False,F,ENS
+719108,Raphaël,Gérard,Nouvelle-Aquitaine,Charente-Maritime,4,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+720468,Sébastien,Chenu,Hauts-de-France,Nord,19,Conseiller en communication,Non inscrit,NI,True,M,RN
+719910,Mounir,Belhamiti,Pays de la Loire,Loire-Atlantique,1,Ingénieur chef de projet digital,Non inscrit,NI,False,M,ENS
+719202,Didier,Paris,Bourgogne-Franche-Comté,Côte-d'Or,5,Cadre supérieur (secteur privé) ,Non inscrit,NI,True,M,ENS
+720960,Olivier,Serva,Guadeloupe,Guadeloupe,1,Expert comptable,Non inscrit,NI,True,M,DVG
+794410,Vincent,Seitlinger,Grand Est,Moselle,5,Notaire,Non inscrit,NI,False,M,LR
+794638,Victor,Catteau,Hauts-de-France,Nord,5,Juriste,Non inscrit,NI,False,M,RN
+793398,Jérémie,Patrier-Leitus,Normandie,Calvados,3,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+607553,Dominique,Potier,Grand Est,Meurthe-et-Moselle,5,Agriculteur,Non inscrit,NI,True,M,DVG
+718784,Éric,Pauget,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,7,Autre cadre (secteur privé),Non inscrit,NI,True,M,LR
+721608,Jean-Louis,Bourlanges,Ile-de-France,Hauts-de-Seine,12,Retraité de la fonction publique,Non inscrit,NI,True,M,ENS
+795528,Charles,Rodwell,Ile-de-France,Yvelines,1,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+720146,Denis,Masséglia,Pays de la Loire,Maine-et-Loire,5,Ingénieur Arts et métiers,Non inscrit,NI,True,M,ENS
+794894,Anaïs,Sabatini,Occitanie,Pyrénées-Orientales,2,Avocate,Non inscrit,NI,False,F,RN
+795466,Ersilia,Soudais,Ile-de-France,Seine-et-Marne,7,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+719922,Lionel,Causse,Nouvelle-Aquitaine,Landes,2,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+330008,Xavier,Breton,Auvergne-Rhône-Alpes,Ain,1,Cadre territorial,Non inscrit,NI,True,M,LR
+795778,Jean-Philippe,Tanguy,Hauts-de-France,Somme,4,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+794478,David,Guiraud,Hauts-de-France,Nord,8,Cadre administratif d'entreprise,Non inscrit,NI,False,M,NUP
+721150,Alexandre,Holroyd,Français établis hors de France,Français établis hors de France,3,Cadre,Non inscrit,NI,True,M,ENS
+267306,André,Chassaigne,Auvergne-Rhône-Alpes,Puy-de-Dôme,5,Retraité de l'éducation nationale,Non inscrit,NI,True,M,NUP
+719052,Loïc,Kervran,Centre-Val de Loire,Cher,3,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+722252,Marie-Pierre,Rixain,Ile-de-France,Essonne,4,Consultante en communication,Non inscrit,NI,True,F,ENS
+2960,Éric,Woerth,Hauts-de-France,Oise,4,Associé dans un cabinet d'audit international,Non inscrit,NI,True,M,ENS
+342415,Marie-Noëlle,Battistel,Auvergne-Rhône-Alpes,Isère,4,Autre cadre (secteur privé),Non inscrit,NI,True,F,NUP
+795580,Florian,Chauche,Bourgogne-Franche-Comté,Territoire de Belfort,2,Fonctionnaire territorial - Agent du service courrier,Non inscrit,NI,False,M,NUP
+720066,Stéphanie,Rist,Centre-Val de Loire,Loiret,1,Médecin,Non inscrit,NI,True,F,ENS
+795136,Jean-François,Coulomme,Auvergne-Rhône-Alpes,Savoie,4,Ingénieur commercial,Non inscrit,NI,False,M,NUP
+677483,Stéphane,Mazars,Occitanie,Aveyron,1,Avocat,Non inscrit,NI,True,M,ENS
+721722,Hadrien,Ghomi,Ile-de-France,Seine-et-Marne,8,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+718838,Fabrice,Brun,Auvergne-Rhône-Alpes,Ardèche,3,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,LR
+795406,Isabelle,Périgault,Ile-de-France,Seine-et-Marne,4,Directrice administrative,Non inscrit,NI,False,F,LR
+794138,Ségolène,Amiot,Pays de la Loire,Loire-Atlantique,3,Employé administratif d'entreprise,Non inscrit,NI,False,F,NUP
+719218,Hervé,Berville,Bretagne,Côtes-d'Armor,2,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+794650,Jean-Marc,Tellier,Hauts-de-France,Pas-de-Calais,3,Ancien cadre,Non inscrit,NI,False,M,NUP
+794082,Mathilde,Hignet,Bretagne,Ille-et-Vilaine,4,Ouvrière agricole,Non inscrit,NI,False,F,NUP
+333421,Bertrand,Pancher,Grand Est,Meuse,1,Directeur du développement,Non inscrit,NI,True,M,DVD
+722202,Sébastien,Jumel,Normandie,Seine-Maritime,6,Cadre de la fonction publique,Non inscrit,NI,True,M,NUP
+793964,Grégoire,de Fournas,Nouvelle-Aquitaine,Gironde,5,Viticulteur,Non inscrit,NI,False,M,RN
+267794,Michèle,Tabarot,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,9,Chef d'entreprise,Non inscrit,NI,True,F,LR
+795540,Daniel,Grenon,Bourgogne-Franche-Comté,Yonne,1,"Ancien artisan, commerçant, chef d'entreprise",Non inscrit,NI,False,M,RN
+793194,Lionel,Vuibert,Grand Est,Ardennes,1,Cadre d'entreprise de 10 salariés ou plus,Non inscrit,NI,False,M,ENS
+796118,Bénédicte,Auzanot,Provence-Alpes-Côte d'Azur,Vaucluse,2,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,F,RN
+719938,Marc,Fesneau,Centre-Val de Loire,Loir-et-Cher,1,Directeur d'un institut de formation,Non inscrit,NI,False,M,ENS
+331835,Monique,Iborra,Occitanie,Haute-Garonne,6,Retraitée de la Fonction publique,Non inscrit,NI,True,F,ENS
+718674,Olga,Givernet,Auvergne-Rhône-Alpes,Ain,3,Ingénieure aéronautique,Non inscrit,NI,True,F,ENS
+721530,Aude,Luquet,Ile-de-France,Seine-et-Marne,1,Autre profession,Non inscrit,NI,True,F,ENS
+719756,Christine,Le Nabour,Bretagne,Ille-et-Vilaine,5,Employée (secteur privé),Non inscrit,NI,True,F,ENS
+795278,Béatrice,Bellamy,Pays de la Loire,Vendée,2,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
+794030,Alexis,Jolly,Auvergne-Rhône-Alpes,Isère,6,Commerçant et assimilé,Non inscrit,NI,False,M,RN
+795596,Paul,Vannier,Ile-de-France,Val-d'Oise,5,Professeur d'histoire-géographie,Non inscrit,NI,False,M,NUP
+795144,Antoine,Armand,Auvergne-Rhône-Alpes,Haute-Savoie,2,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+795076,Sandrine,Rousseau,Ile-de-France,Paris,9,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+793832,Yoann,Gillet,Occitanie,Gard,1,Cadre de la fonction publique,Non inscrit,NI,False,M,RN
+721202,Éric,Coquerel,Ile-de-France,Seine-Saint-Denis,1,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,NUP
+795410,Béatrice,Roullaud,Ile-de-France,Seine-et-Marne,6,Profession libérale,Non inscrit,NI,False,F,RN
+720002,Sarah,El Haïry,Pays de la Loire,Loire-Atlantique,5,Autre cadre (secteur privé),Non inscrit,NI,False,F,ENS
+722398,Rémy,Rebeyrotte,Bourgogne-Franche-Comté,Saône-et-Loire,3,Professeur d'économie,Non inscrit,NI,True,M,ENS
+722000,Stéphane,Buchou,Pays de la Loire,Vendée,3,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+606098,Olivier,Marleix,Centre-Val de Loire,Eure-et-Loir,2,Fonctionnaire de catégorie A,Non inscrit,NI,True,M,LR
+345722,Constance,Le Grip,Ile-de-France,Hauts-de-Seine,6,Permanent politique,Non inscrit,NI,True,F,ENS
+795216,Jean-François,Lovisolo,Provence-Alpes-Côte d'Azur,Vaucluse,5,Maire,Non inscrit,NI,False,M,ENS
+1327,Nicolas,Forissier,Centre-Val de Loire,Indre,2,Chef d'entreprise,Non inscrit,NI,True,M,LR
+794762,Sandrine,Dogor-Such,Occitanie,Pyrénées-Orientales,3,Préparatrice en pharmacie,Non inscrit,NI,False,F,RN
+793904,Aurélien,Lopez-Liguori,Occitanie,Hérault,7,Attaché parlementaire,Non inscrit,NI,False,M,RN
+720838,Soumya,Bourouaha,Ile-de-France,Seine-Saint-Denis,4,Professeure,Non inscrit,NI,False,F,NUP
+608826,Virginie,Duby-Muller,Auvergne-Rhône-Alpes,Haute-Savoie,4,Cadre du secteur privé,Non inscrit,NI,True,F,LR
+642764,Joël,Aviragnet,Occitanie,Haute-Garonne,8,Directeur d'un établissement pour l'enfance handicapée,Non inscrit,NI,True,M,DVG
+605036,Damien,Abad,Auvergne-Rhône-Alpes,Ain,5,Sans profession déclarée,Non inscrit,NI,True,M,DVD
+793708,Sébastien,Peytavie,Nouvelle-Aquitaine,Dordogne,4,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,M,NUP
+795926,Emmanuel,Pellerin,Ile-de-France,Hauts-de-Seine,9,Profession libérale,Non inscrit,NI,False,M,ENS
+719866,Caroline,Abadie,Auvergne-Rhône-Alpes,Isère,8,Industriel-Chef entreprise,Non inscrit,NI,True,F,ENS
+794838,Didier,Lemaire,Grand Est,Haut-Rhin,3,Employé civil et agent de service de la fonction publique,Non inscrit,NI,False,M,ENS
+719118,François,Cormier-Bouligeon,Centre-Val de Loire,Cher,1,Conseiller ministériel,Non inscrit,NI,True,M,ENS
+721210,Alexis,Corbière,Ile-de-France,Seine-Saint-Denis,7,Professeur de lycée professionnel,Non inscrit,NI,True,M,NUP
+720696,Béatrice,Descamps,Hauts-de-France,Nord,21,Enseignant 1er deg.-directeur école,Non inscrit,NI,True,F,DVD
+795722,Karl,Olive,Ile-de-France,Yvelines,12,Chef d'entreprise,Non inscrit,NI,False,M,ENS
+794426,Anne,Le Hénanff,Bretagne,Morbihan,1,Consultante indépendante,Non inscrit,NI,False,F,ENS
+721760,Maud,Gatel,Ile-de-France,Paris,11,Directrice générale adjointe d'une agence de communication,Non inscrit,NI,True,F,ENS
+793844,Pascale,Bordes,Occitanie,Gard,3,Profession libérale ,Non inscrit,NI,False,F,RN
+719032,Bertrand,Bouyx,Normandie,Calvados,5,Pharmacien,Non inscrit,NI,True,M,ENS
+796062,Thomas,Portes,Ile-de-France,Seine-Saint-Denis,3,cheminot,Non inscrit,NI,False,M,NUP
+794974,Louis,Margueritte,Bourgogne-Franche-Comté,Saône-et-Loire,5,Cadre de la fonction publique,Non inscrit,NI,False,M,ENS
+795998,Emeline,K/Bidi,La Réunion,La Réunion,4,Avocate,Non inscrit,NI,False,F,DVG
+720162,Philippe,Bolo,Pays de la Loire,Maine-et-Loire,7,Ingénieur,Non inscrit,NI,True,M,ENS
+794906,Gabriel,Amard,Auvergne-Rhône-Alpes,Rhône,6,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,NUP
+331582,Philippe,Vigier,Centre-Val de Loire,Eure-et-Loir,4,Biologiste A.I.H.P.,Non inscrit,NI,True,M,ENS
+610654,Jean-Philippe,Nilor,Martinique,Martinique,4,Collaborateur parlementaire,Non inscrit,NI,True,M,REG
+795228,Nadège,Abomangoli,Ile-de-France,Seine-Saint-Denis,10,contrôleure interne et risk manager,Non inscrit,NI,False,F,NUP
+794778,Sandra,Regol,Grand Est,Bas-Rhin,1,Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité,Non inscrit,NI,False,F,NUP
+795794,Francesca,Pasquini,Ile-de-France,Hauts-de-Seine,2,"Professeur des écoles, instituteur et assimilé",Non inscrit,NI,False,F,NUP
+607846,Gérald,Darmanin,Hauts-de-France,Nord,10,Cadre supérieur du secteur privé,Non inscrit,NI,False,M,ENS
+794718,Christine,Engrand,Hauts-de-France,Pas-de-Calais,6,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,RN
+719272,Frédérique,Meunier,Nouvelle-Aquitaine,Corrèze,2,Avocate,Non inscrit,NI,True,F,LR
+795672,Arnaud,Le Gall,Ile-de-France,Val-d'Oise,9,Cadre de la fonction publique,Non inscrit,NI,False,M,NUP
+721458,Xavier,Roseren,Auvergne-Rhône-Alpes,Haute-Savoie,6,Commerçant,Non inscrit,NI,True,M,ENS
+793788,Dominique,Faure,Occitanie,Haute-Garonne,10,Senior Advisor,Non inscrit,NI,False,F,ENS
+794590,Alexandre,Loubet,Grand Est,Moselle,7,Cadre d'entreprise,Non inscrit,NI,False,M,RN
+794314,Mathilde,Paris,Centre-Val de Loire,Loiret,3,Chef d'entreprise de 10 salariés ou plus ,Non inscrit,NI,False,F,RN
+605963,Éric,Alauzet,Bourgogne-Franche-Comté,Doubs,2,Médecin,Non inscrit,NI,True,M,ENS
+793270,Jean-François,Rousset,Occitanie,Aveyron,3,Chirurgien,Non inscrit,NI,False,M,ENS
+643157,Philippe,Naillet,La Réunion,La Réunion,1,Inspecteur assurance-vie,Non inscrit,NI,True,M,DVG
+795482,Manon,Meunier,Nouvelle-Aquitaine,Haute-Vienne,3,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+642935,Olivier,Becht,Grand Est,Haut-Rhin,5,Magistrat,Non inscrit,NI,True,M,ENS
+793588,Nicolas,Pacquot,Bourgogne-Franche-Comté,Doubs,3,Ingénieur et cadre technique d'entreprise,Non inscrit,NI,False,M,ENS
+794562,Philippe,Ballard,Hauts-de-France,Oise,2,Ancien journaliste,Non inscrit,NI,False,M,RN
+793532,Murielle,Lepvraud,Bretagne,Côtes-d'Armor,4,Employé administratif d'entreprise,Non inscrit,NI,False,F,NUP
+335999,Delphine,Batho,Nouvelle-Aquitaine,Deux-Sèvres,2,Cadre territorial,Non inscrit,NI,True,F,NUP
+794442,Laurence,Robert-Dehault,Grand Est,Haute-Marne,2,Profession libérale ,Non inscrit,NI,False,F,RN
+2449,Jean-Pierre,Pont,Hauts-de-France,Pas-de-Calais,5,Médecin,Non inscrit,NI,True,M,ENS
+330909,Vincent,Descoeur,Auvergne-Rhône-Alpes,Cantal,1,Professeur agrégé de biologie,Non inscrit,NI,True,M,LR
+720342,Nicole,Le Peih,Bretagne,Morbihan,3,Agricultrice,Non inscrit,NI,True,F,ENS
+718962,Jean-Marc,Zulesi,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,8,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+795552,Julien,Odoul,Bourgogne-Franche-Comté,Yonne,3,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,RN
+720190,Bertrand,Sorre,Normandie,Manche,2,Enseignant 1er degré-directeur d'école (en disponibilité),Non inscrit,NI,True,M,ENS
+722366,Jean-Luc,Fugit,Auvergne-Rhône-Alpes,Rhône,11,Professeur de faculté,Non inscrit,NI,True,M,ENS
+719396,Jean-Charles,Larsonneur,Bretagne,Finistère,2,Diplomate,Non inscrit,NI,True,M,DVC
+2952,Jean-Luc,Warsmann,Grand Est,Ardennes,3,Directeur de mutuelle,Non inscrit,NI,True,M,DVD
+795876,Davy,Rimane,Guyane,Guyane,2,Technicien,Non inscrit,NI,False,M,DVG
+720754,Bruno,Studer,Grand Est,Bas-Rhin,3,Professeur du secondaire et technique,Non inscrit,NI,True,M,ENS
+794206,Christophe,Marion,Centre-Val de Loire,Loir-et-Cher,3,Délégué général du Comité des travaux historiques et scientifiques,Non inscrit,NI,False,M,ENS
+795808,Sabrina,Sebaihi,Ile-de-France,Hauts-de-Seine,4,Profession libérale,Non inscrit,NI,False,F,NUP
+794502,Michaël,Taverne,Hauts-de-France,Nord,12,Policier et militaire,Non inscrit,NI,False,M,RN
+643089,Jean-Louis,Thiériot,Ile-de-France,Seine-et-Marne,3,Avocat,Non inscrit,NI,True,M,LR
+342240,Jean-Luc,Bourgeaux,Bretagne,Ille-et-Vilaine,7,Agriculteur,Non inscrit,NI,True,M,LR
+344201,Bertrand,Petit,Hauts-de-France,Pas-de-Calais,8,,Non inscrit,NI,False,M,DVG
+719286,Paul-André,Colombani,Corse,Corse-du-Sud,2,Médecin,Non inscrit,NI,True,M,REG
+721976,Bruno,Millienne,Ile-de-France,Yvelines,9,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+720552,Isabelle,Rauch,Grand Est,Moselle,9,Consultante,Non inscrit,NI,True,F,ENS
+720932,Dominique,Da Silva,Ile-de-France,Val-d'Oise,7,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+794330,Anthony,Brosse,Centre-Val de Loire,Loiret,5,Profession intermédiaire de la santé et du travail social,Non inscrit,NI,False,M,ENS
+718910,Claire,Pitollat,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,2,Ingénieur,Non inscrit,NI,True,F,ENS
+721482,David,Valence,Grand Est,Vosges,2,Professeur agrégé,Non inscrit,NI,False,M,ENS
+1592,David,Habib,Nouvelle-Aquitaine,Pyrénées-Atlantiques,3,Cadre,Non inscrit,NI,True,M,DVG
+795422,Damien,Maudet,Nouvelle-Aquitaine,Haute-Vienne,1,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,M,NUP
+720038,Sandrine,Josso,Pays de la Loire,Loire-Atlantique,7,Autre profession libérale,Non inscrit,NI,True,F,ENS
+719072,Thomas,Mesnier,Nouvelle-Aquitaine,Charente,1,Médecin,Non inscrit,NI,True,M,ENS
+795746,Antoine,Léaument,Ile-de-France,Essonne,10,Responsable de la communication numérique,Non inscrit,NI,False,M,NUP
+722070,Pierre,Henriet,Pays de la Loire,Vendée,5,Professeur du secondaire et technique,Non inscrit,NI,True,M,ENS
+794678,Thierry,Frappé,Hauts-de-France,Pas-de-Calais,10,Profession libérale,Non inscrit,NI,False,M,RN
+718978,Mohamed,Laqhila,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,11,Expert-Comptable-Commissaire aux Comptes,Non inscrit,NI,True,M,ENS
+794386,Lysiane,Métayer,Bretagne,Morbihan,5,Cadre de la fonction publique,Non inscrit,NI,False,F,ENS
+719798,Daniel,Labaronne,Centre-Val de Loire,Indre-et-Loire,2,Retraité de l'enseignement supérieur,Non inscrit,NI,True,M,ENS
+793362,José,Gonzalez,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,10,Ancien employé,Non inscrit,NI,False,M,RN
+720900,Cécile,Rilhac,Ile-de-France,Val-d'Oise,3,Profession rattachée à l'enseignement,Non inscrit,NI,True,F,ENS
+794270,Anna,Pic,Normandie,Manche,4,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+793210,Laurent,Panifous,Occitanie,Ariège,2,Cadre de la fonction publique,Non inscrit,NI,False,M,DVG
+794222,Annick,Cousin,Nouvelle-Aquitaine,Lot-et-Garonne,3,Agent administratif hospitalier,Non inscrit,NI,False,F,RN
+712015,Julien,Dive,Hauts-de-France,Aisne,2,Chef de projet dans l'industrie,Non inscrit,NI,True,M,LR
+722150,Sacha,Houlié,Nouvelle-Aquitaine,Vienne,2,Avocat,Non inscrit,NI,True,M,ENS
+719778,François,Jolivet,Centre-Val de Loire,Indre,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,ENS
+794734,Michel,Guiniot,Hauts-de-France,Oise,6,Ancien cadre,Non inscrit,NI,False,M,RN
+719882,Marjolaine,Meynier-Millefert,Auvergne-Rhône-Alpes,Isère,10,Conseillère en stratégie des organisations,Non inscrit,NI,True,F,ENS
+721024,Anne,Genetet,Français établis hors de France,Français établis hors de France,11,Médecin,Non inscrit,NI,True,F,ENS
+720100,Aurélien,Pradié,Occitanie,Lot,1,Cadre supérieur (secteur privé),Non inscrit,NI,True,M,LR
+795164,Aurélie,Trouvé,Ile-de-France,Seine-Saint-Denis,9,Cadre de la fonction publique,Non inscrit,NI,False,F,NUP
+606507,Florent,Boudié,Nouvelle-Aquitaine,Gironde,10,Cadre supérieur du secteur public,Non inscrit,NI,True,M,ENS
+793298,Lionel,Tivoli,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,2,Chef d'entreprise de 10 salariés ou plus,Non inscrit,NI,False,M,RN
+720892,Mathilde,Panot,Ile-de-France,Val-de-Marne,10,Coordinatrice de projets associatifs,Non inscrit,NI,True,F,NUP
+719624,Bérangère,Couillard,Nouvelle-Aquitaine,Gironde,7,Autre cadre (secteur privé),Non inscrit,NI,True,F,ENS
+796078,Estelle,Youssouffa,Mayotte,Mayotte,1,Consultante,Non inscrit,NI,False,F,DIV
+795438,Rachel,Keke,Ile-de-France,Val-de-Marne,7,Personnel des services directs aux particuliers,Non inscrit,NI,False,F,NUP
+720054,Yannick,Haury,Pays de la Loire,Loire-Atlantique,9,Pharmacien,Non inscrit,NI,True,M,ENS
+722308,Nathalie,Serre,Auvergne-Rhône-Alpes,Rhône,8,Mère au foyer,Non inscrit,NI,True,F,LR
+793102,Christian,Girard,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,1,Ancien cadre,Non inscrit,NI,False,M,RN
+720862,Frédéric,Descrozaille,Ile-de-France,Val-de-Marne,1,Autre cadre (secteur privé),Non inscrit,NI,True,M,ENS
+721118,Moetai,Brotherson,Polynésie française,Polynésie française,3,Autre profession,Non inscrit,NI,True,M,REG
+719814,Fabienne,Colboc,Centre-Val de Loire,Indre-et-Loire,4,Industriel-Chef d'entreprise,Non inscrit,NI,True,F,ENS
+793374,Romain,Baubry,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,15,Policier et militaire,Non inscrit,NI,False,M,RN
+795108,Élise,Leboucher,Pays de la Loire,Sarthe,4,Educatrice spécialisée,Non inscrit,NI,False,F,NUP
+794234,François,Gernigon,Pays de la Loire,Maine-et-Loire,1,Ancien cadre,Non inscrit,NI,False,M,ENS
+721466,Gilles,Le Gendre,Ile-de-France,Paris,2,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+793796,David,Taupiac,Occitanie,Gers,2,Consultant aéronautique,Non inscrit,NI,False,M,DVG
+793158,José,Beaurain,Hauts-de-France,Aisne,4,Artisan,Non inscrit,NI,False,M,RN
+796018,Danielle,Simonnet,Ile-de-France,Paris,15,"Professeur, profession scientifique",Non inscrit,NI,False,F,NUP
+721234,Maud,Petit,Ile-de-France,Val-de-Marne,4,Chargée de ressources humaines,Non inscrit,NI,True,F,ENS
+721046,Nathalie,Bassire,La Réunion,La Réunion,3,Retraitée de l'enseignement,Non inscrit,NI,True,F,DVD
+332523,Marie-Christine,Dalloz,Bourgogne-Franche-Comté,Jura,2,Autre profession,Non inscrit,NI,True,F,LR
+605991,Annie,Genevard,Bourgogne-Franche-Comté,Doubs,5,Professeur du secondaire,Non inscrit,NI,True,F,LR
+795176,Nicolas,Metzdorf,Nouvelle-Calédonie,Nouvelle-Calédonie,2,Ingénieur et cadre technique d'entreprise,Non inscrit,NI,False,M,ENS
+719664,Pascal,Lavergne,Nouvelle-Aquitaine,Gironde,12,Ingénieur-Agriculteur,Non inscrit,NI,False,M,ENS
+720256,Géraldine,Bannier,Pays de la Loire,Mayenne,2,Professeur du secondaire et technique,Non inscrit,NI,True,F,ENS
+719640,Sophie,Mette,Nouvelle-Aquitaine,Gironde,9,Sans profession déclarée,Non inscrit,NI,True,F,ENS
+796090,Aymeric,Caron,Ile-de-France,Paris,18,"Profession de l'information, des arts et des spectacles",Non inscrit,NI,False,M,NUP
+774960,Isabelle,Santiago,Ile-de-France,Val-de-Marne,9,Cadre territorial,Non inscrit,NI,True,F,NUP
+722358,Thomas,Gassilloud,Auvergne-Rhône-Alpes,Rhône,10,Industriel-Chef d'entreprise,Non inscrit,NI,True,M,ENS
+793736,Hadrien,Clouet,Occitanie,Haute-Garonne,1,"Professeur, profession scientifique",Non inscrit,NI,False,M,NUP
+794930,Sarah,Tanzilli,Auvergne-Rhône-Alpes,Rhône,13,Cadre administratif,Non inscrit,NI,False,F,ENS
+793664,Marie,Pochon,Auvergne-Rhône-Alpes,Drôme,3,Responsable associative,Non inscrit,NI,False,F,NUP
+721182,Frédéric,Petit,Français établis hors de France,Français établis hors de France,7,Ingénieur,Non inscrit,NI,True,M,ENS
+757225,Mikaele,Seo,Wallis-et-Futuna,Wallis-et-Futuna,1,,Non inscrit,NI,False,M,DVC
+642788,Olivier,Véran,Auvergne-Rhône-Alpes,Isère,1,Médecin neurologue hospitalier,Non inscrit,NI,False,M,ENS
+794802,Charles,Sitzenstuhl,Grand Est,Bas-Rhin,5,Sans profession déclarée,Non inscrit,NI,False,M,ENS
+795120,Marina,Ferrari,Auvergne-Rhône-Alpes,Savoie,1,Cadre administratif et commercial d'entreprise,Non inscrit,NI,False,F,ENS
