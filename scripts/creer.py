@@ -12,14 +12,16 @@ import pandas as pd
 from quiestce16.models import Mystere, Image, Indice
 
 def run():
-    deputes = pd.read_csv('docs/élus_29062022_colonnes_suppl.csv', index_col=[0])
+    
+
+    deputes = pd.read_csv('docs/deputes_2024-03-02_avec_colonnes_sup.csv', index_col=[0], sep = ";")
 
     Mystere.objects.all().delete()
 
     for line in deputes.index:
         solution = "{} {}".format(deputes.at[line,'Prénom'], deputes.at[line,'Nom'])
         
-        etiquette = deputes.at[line, "Nuance d'élection"]
+        etiquette = deputes.at[line, 'Groupe politique (complet)']
       
         prénom = "Son prénom est " + deputes.at[line, 'Prénom'] + "."
         # groupe = "Groupe : " + deputes.at[line, 'Groupe politique (complet)'] + "."
@@ -39,7 +41,7 @@ def run():
             else:
                 is_sortant = "C'est un sortant"
         else:
-            if deputes.at[line, 'Genre'] == 'F':
+            if deputes.at[line, 'Genre'] == 'Mme':
                 is_sortant = "C'est une nouvelle élue"
             else:
                 is_sortant = "C'est un nouvel élu"

@@ -16,7 +16,7 @@ class Prop(forms.Form):
     
 #     abandon = forms.BooleanField(label = "abandon", required=False)
     
-   
+
 # class Hint(forms.Form):
     
 #     hint = forms.BooleanField(label = "indice", required=False)

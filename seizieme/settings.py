@@ -8,28 +8,16 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
-
-pour changer entre local et heroku, 
-- s'occuper de la secret key
-- passer en True les secure_machins
-- passer Debug en False
 """
 
-
 from pathlib import Path
-import os
-
-# Configuration locale :
-# import environ
-#   
-# env = environ.Env()
-#   
-# environ.Env.read_env()
 
 # import os
 # SECRET_KEY = os.getenv('SECRET_KEY')
 #django on heroku imports environnement secret key
 #which is in heroku config
+
+SECRET_KEY='nn8f7r_kqwbill@&xama97z8(d%^-8e9nk#))(7zivd#_*qko7'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -39,13 +27,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-
-# SECRET_KEY= voir sur Djecrety
-
+# SECRET_KEY = grab something on djecrecy
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # Application definition
 
@@ -56,8 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'quiestce16.apps.Quiestce16Config',
-	'django_extensions'
+    'quiestce16.apps.Quiestce16Config',
+    
 ]
 
 MIDDLEWARE = [
@@ -71,17 +57,10 @@ MIDDLEWARE = [
 ]
 
 CSRF_TRUSTED_ORIGINS = ["http://0.0.0.0",
-    "http://localhost",'https://*.herokuapp.com]']
-# 
-SESSION_COOKIE_SECURE=True
-CSRF_COOKIE_SECURE=True
-SECURE_SSL_REDIRECT=True
+    "http://localhost"]
 
-# SESSION_COOKIE_SECURE=False
-# CSRF_COOKIE_SECURE=False
-# SECURE_SSL_REDIRECT=False
-
-
+SESSION_COOKIE_SECURE=False #ou True
+CSRF_COOKIE_SECURE=False    #ou True
 
 ROOT_URLCONF = 'seizieme.urls'
 
@@ -156,5 +135,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-import django_on_heroku
-django_on_heroku.settings(locals())
+#import django_on_heroku
+#django_on_heroku.settings(locals())

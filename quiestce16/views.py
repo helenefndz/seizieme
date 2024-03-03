@@ -181,7 +181,9 @@ def index(request):
         n = n.nuance
         
         h = a_deviner.indice_set.get()
-        h = [h.ind_p, h.ind_sortant, h.ind_dpt, h.ind_initiale,
+        h = [h.ind_p,
+             #h.ind_sortant,
+             h.ind_dpt, h.ind_initiale,
              h.ind_groupe, h.ind_commission]
         random.shuffle(h)
 
