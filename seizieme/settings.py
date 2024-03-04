@@ -14,24 +14,28 @@ from pathlib import Path
 
 import environ
 
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+# donc BASE_DIR = /home/moizelleJeanne/seizieme (je crois)
 
 env = environ.Env()
 
-#important d'indiquer le chemin 
-environ.Env.read_env(env_file = str( BASE_DIR / "seizieme" / ".env"))
+# important d'indiquer le chemin
+#  en l'occurrence : /home/moizelleJeanne/seizieme/.env
+
+# environ.Env.read_env(env_file = str( BASE_DIR / "seizieme" / ".env"))
+
+environ.Env.read_env(env_file = str( BASE_DIR / ".env"))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = grab something on djecrecy
+# SECRET_KEY = grab something on https://djecrety.ir/
 # SECURITY WARNING: don't run with debug turned on in production!
 
 SECRET_KEY = env('SECRET_KEY')
-DEBUG = env.bool("DEBUG")
+DEBUG = env.bool('DEBUG')
 ALLOWED_HOSTS = env.list('ALLOWED_HOSTS')
 
 # Application definition
@@ -44,7 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'quiestce16.apps.Quiestce16Config',
-    
+
 ]
 
 MIDDLEWARE = [
@@ -140,5 +144,4 @@ MEDIA_ROOT = BASE_DIR / 'mediafiles'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-#import django_on_heroku
-#django_on_heroku.settings(locals())
+
